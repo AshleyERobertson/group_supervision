@@ -46,7 +46,7 @@ book:
     header: ''
     footer: ''
   margin-header: ''
-  page-footer: CC-BY (2024) c("Ashley", "Robertson", "0000-0001-9914-3199")
+  page-footer:  CC-BY (2024) Ashley Robertson
   chapters:
   - index.qmd
   - instructions.qmd
