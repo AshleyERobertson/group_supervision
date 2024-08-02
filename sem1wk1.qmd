@@ -1,0 +1,49 @@
+---
+title: "Semester 1 Week 1"
+editor: visual
+---
+
+## Getting to know each other, topics, proposals
+
+In the first session, the purpose is mainly to get to know each other - what topics are students interested in? We also have a look over what is required for the dissertation proposal and discuss what they can expect as part of supervision.
+
+### Introductions and topics
+
+-   Everyone introduces themselves and the general topic/s that they are interested in. Do they have a fixed idea or are they still deciding? Do they know what approach they want to take, methodologically? Do they have any questions?
+
+### Format of supervision
+
+-   I then discuss the general process of supervision
+    -   Expectations I have (stated in the sway) and what students can expect from me
+    -   Individual vs. group sessions (including how these differ, what the function of each is)
+    -   Explain the importance of getting ethics done at an early stage in the process
+    -   Discuss a general timeline of the project (everyone's will look a bit different though)
+        -   Typically, intros are sent in December/early Jan, methods in Jan/Feb and Results or Analysis in Feb.\
+        -   Sections can be sent together or separately.\
+        -   Everyone should choose deadlines for each section and it will be added to the deadline spreadsheet.\
+        -   I have a cut off for accepting drafts. This is usually two weeks before the deadline, so students should keep this in mind when setting deadlines (they should give themselves some wiggle room).\
+    -   Show the students the folder with dissertation resources I've gathered together. This will be everything covered in the group sessions, plus anything else that's useful\
+    -   Show students the spreadsheet to track drafts etc. We'll discuss possible deadlines in individual supervision
+    -   They will have to juggle the dissertation alongside other courses, so will need to work consistently on it but also take advantage of the quieter periods to work on it.
+-   Some things I cover, in terms of project management:
+    -   It's worth setting up a reference manager now if they don't already use one (e.g. [Zotero](https://www.zotero.org/))
+    -   Project management will be very important - there's information on using [Planner](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner) in the Moodle
+
+### Writing a proposal
+
+Different supervisors have different ways of approaching the proposal - as most of the students working with me tend to do somewhat sensitive topics, I am very mindful of not delaying ethics too much and therefore ask them to work on the proposal and also make a start on ethics pretty soon after. But, they would need to have a very clear idea of the project and how they were going to set it up in this case.
+
+Some things I discuss with students and ask them to think about: - Why are they conducting the study? - What do they want to find out? - What data will they need? - Who are they going to recruit? From where? - What would your RQ/hypotheses be?\
+- If quant, what analysis would you do for each hypothesis? - If qual, how are you planning to analyse your data and why?
+
+I also direct the students to the information on proposal writing on the Moodle (Level 4 Undergraduate)
+
+### Other things to cover
+
+-   I show the students where the Level 4 moodle is (usually there are at least a few who aren't aware of this)
+-   I introduce the idea of deciding between College vs. intranet for ethics (will depend on their project)
+-   Mention that one things I'm doing is building up a bank of data that future students can use. Ideally, I would like all projects that collect data to have an option in it for storage of the data and keeping it so students can analyse it in the future.
+
+## Internal resources
+
+**Specific to School of Psychology & Neuroscience**: In the Level 4 moodle for the dissertation, Chiara has included a section called 'Project Management & Time Saving Tools'. In this, there is information about the proposal, a proforma and also an example research proposal.
