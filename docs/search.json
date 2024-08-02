@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Group Dissertation Supervision",
     "section": "",
-    "text": "Overview\nWelcome to the quarto textbook template. Customize your book setup by editing the following code. It will create a project at the specified path (e.g., the code below will create a new folder called “book” in your working directory), render the demo book in Quarto, open the book in a web browser, and open the project in a new RStudio window."
+    "text": "Overview\nI initially designed this resource to help structure my group supervision sessions, and have now set it up as a Quarto book to share with others.\nThere are a range of different resources contained within this book. In the section below, I give an overview of how I supervise and how my group supervision is structured. In the chapters that follow, I break down, week-by-week, what I cover along with the resources I use.\nIf you are interested in using any of these resources, please do! Feel free to pick and choose/adapt any of the resources, incorporating what you want into your own supervision practice.\nWhere there are internal resources that I’ve used, I’ve either linked to the original source or have said who the resource has come from. Where there are external resources, I’ve provided the original source.\nEach week is structured as follows:"
   },
   {
     "objectID": "instructions.html#sec-setup",
@@ -54,5 +54,103 @@
     "title": "References",
     "section": "",
     "text": "Wickham, H., Bryan, J., & Barrett, M. (2022). Usethis: Automate\npackage and project setup. https://CRAN.R-project.org/package=usethis"
+  },
+  {
+    "objectID": "semester1.html",
+    "href": "semester1.html",
+    "title": "1  Semester 1",
+    "section": "",
+    "text": "2 Semester 1"
+  },
+  {
+    "objectID": "semester1.html#week-2",
+    "href": "semester1.html#week-2",
+    "title": "1  Semester 1",
+    "section": "1.1 Week 2",
+    "text": "1.1 Week 2"
+  },
+  {
+    "objectID": "semester1.html#week-1",
+    "href": "semester1.html#week-1",
+    "title": "1  Semester 1",
+    "section": "1.1 Week 1",
+    "text": "1.1 Week 1"
+  },
+  {
+    "objectID": "index.html#how-i-structure-my-supervision",
+    "href": "index.html#how-i-structure-my-supervision",
+    "title": "Group Dissertation Supervision",
+    "section": "How I structure my supervision",
+    "text": "How I structure my supervision\nThe way I run my dissertation supervision is:\n\nLevel 4 students have a combination of individual supervision and group supervision (switching between each on a weekly basis). I, personally, like having both types rather than just doing group or individual.\nPGT ODL students have individual supervision (30 mins) on a fortnightly basis (this is because they are part-time and online distance-learning). I also hold a couple of group sessions through the year to get them in touch with each other so they can provide peer support, although many work full-time or in schools etc., which combined with time zones, makes it difficult to find a time to suit everyone. I record these so everyone can benefit.\n\nTherefore, most of these resources apply to my UG dissertation students, but could easily be applied to PGT, especially those studying on campus.\n\nSetting expectations with students\nIn 23-24, I made up sways to detail the supervision process for both Level 4 students and ODL students. They were well-received, but the students who went out of their way to tell me that they found it helpful were those who were neurodivergent, as it meant they knew what to expect. I think they would also be quite helpful for international students, as previous supervision experiences at university might have been very different.\nI’ve provided the actual sways above, but have also included the content in Appendix A"
+  },
+  {
+    "objectID": "appendix_a.html",
+    "href": "appendix_a.html",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "",
+    "text": "I provide some information for students before dissertation supervision starts, so that they know how I work as a supervisor, what they can expect from supervision from me, and also what my expectations are from them as supervisees."
+  },
+  {
+    "objectID": "appendix_a.html#overview",
+    "href": "appendix_a.html#overview",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.1 Overview",
+    "text": "A.1 Overview\nHello, and welcome to your dissertation! As you know, I’m Ashley and I’ll be your dissertation supervisor this year.\nEvery dissertation project is different, and the way I tend to supervise is to focus on us working together (both you and I, and also us as a group with your peers) to support you to develop a range of skills, culminating in your dissertation write up. I tend to be quite structured as a supervisor, and this is one reason I developed this document, as it will outline the process for you in advance, so you know what to expect. If there is something you would like added, let me know and I’ll see what I can do."
+  },
+  {
+    "objectID": "appendix_a.html#expectations",
+    "href": "appendix_a.html#expectations",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.2 Expectations",
+    "text": "A.2 Expectations\nI have certain expectations in terms of how we will work together over the academic year. I have some below, but in our first group meeting, I will ask you to think about whether there are any you would like to add, or if there is anything you want to amend related to the points below.\n\nA.2.1 Communication\nI ask that all students working with me communicate with me, letting me know if they are unable to make a certain deadline or if something gets in the way of a task they had planned for a specific point in time. In return, I will communicate with you regularly, including when you can expect feedback, and will do my best to let you know if I have to delay something beyond what I had previously communicated.\n\n\nA.2.2 Attendance\nI ask that all students attend group sessions unless there is something urgent that has come up. Individual sessions are more flexible and can be cancelled if you feel that you don’t need to meet in a particular week (although please let me know in advance if this is the case). Group sessions are held for 1h every fortnight, with individual sessions being 30 mins, held in the weeks that we are not meeting as a group.\n\n\nA.2.3 Supportive space\nI want the dissertation group to be an encouraging, safe, space and the dissertation process to be an enjoyable (albeit challenging at points!) experience for everyone. This means that you should never hesitate to ask any questions (all questions are valid) and I’d like us all to work together to support each other. No one is perfect and we will all make mistakes during the process (including me). I’ve been supervising for quite a few years now and I haven’t yet managed to come across anything that we have been unable to sort after some discussion, so don’t worry about talking to me if something has gone wrong :)."
+  },
+  {
+    "objectID": "appendix_a.html#dissertation-meetings",
+    "href": "appendix_a.html#dissertation-meetings",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.3 Dissertation meetings",
+    "text": "A.3 Dissertation meetings\nDissertation meetings will be held every week, with individual meetings and group meetings alternating on a weekly basis.\nSemester 1\n\nGroup meetings (1 hour): Weeks 1, 3, 5, 7, 9, 11\nIndividual meetings (30 mins): Weeks 2, 4, 6, 8, 10, 12\n\nSemester 2\n\nGroup meetings (1 hour): Weeks 1, 3, 5, 7, 9 (plus a 1.5h session in week 11)\nIndividual meetings (30 mins): Weeks 2, 4, 6, 8, 10\n\nAll meetings will be held in my office. I will send outlook invitations for all supervisions, so that they are in Outlook calendars.\nWe will most likely have to select a different time for Semesters 1 and 2, due to changes in timetables/teaching, but can revisit this nearer to the end of Semester 1.\nSemester 1 group meeting time: Wednesdays 12-1pm\nSemester 2 group meeting time: Wednesdays 11am-12pm"
+  },
+  {
+    "objectID": "appendix_a.html#deadlines",
+    "href": "appendix_a.html#deadlines",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.4 Deadlines",
+    "text": "A.4 Deadlines\nWe will set deadlines for you to submit the following: proposal, ethics, introduction, methods, results/analysis. I will ask you to work with me to set these deadlines so that we agree them together.\n\nA.4.1 Ethics\nWe will prioritise the ethics application from the very start - the reason for this is that you cannot recruit data unless you have your ethics approved, meaning that delayed applications can bring a project to a halt.\n\n\nA.4.2 Dissertation\nDissertation section deadlines are not set in stone - I would much rather that you take an extra day or two if you need it rather than sending an unfinished draft (with the caveat that it will never be perfect). If this is the case, let me know and we can discuss options.\nAlthough it is unusual for this to be an issue, there will be a point where I am no longer able to look over drafts before the deadline. We will aim for dates before this, but my cut-off is that I don’t accept drafts once we reach 1st March. This is because it becomes very unlikely that I will be able to turn around feedback in time for you to be able to make meaningful changes by the submission .deadline in mid-March."
+  },
+  {
+    "objectID": "appendix_a.html#communication-1",
+    "href": "appendix_a.html#communication-1",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.5 Communication",
+    "text": "A.5 Communication\nI have set up a Teams with a couple of channels that you can access - I have a General one for all of my dissertation students and your Level 4 (24-25) one (which we will use most of the time).\nPlease direct message me (rather than email) with your ethics documents, proposal, and any draft dissertation sections.\nMost questions should be posted in the teams channel - if you have something that is personal and therefore not appropriate to be shared with the whole team, then it is okay to DM. I prefer DM on teams over email, as my email inbox is harder to keep on top of."
+  },
+  {
+    "objectID": "appendix_a.html#feedback",
+    "href": "appendix_a.html#feedback",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.6 Feedback",
+    "text": "A.6 Feedback\n\nA.6.1 When you can expect feedback\nFor ethics and the proposal, feedback will tend to be returned within a few days or a week. For dissertation section drafts, I will usually aim to provide feedback within two weeks. This is because drafts tend to be in semester 2, when I have most of my teaching. Depending on my teaching/marking commitments, this may take longer, but I will communicate with you about this at the time. You will also be able to see where you are in the ‘feedback queue’ in the shared deadlines document.\n\n\nA.6.2 What type of feedback you will receive\nI generally provide in-text comments, so that I can show you which part am I referring to in my feedback (where relevant). I will also give a global overview/summary. I will tend to focus on what can be improved, as this is the priority to help your writing develop. However, I will also let you know what you do well too.\n\n\nA.6.3 How you can ask for specific feedback\nIf you have specific parts you would like feedback on (e.g. if you are unsure about something), you can leave comments in your document (either at specific points or at the start) and I will respond to them when I am reading through. Try not to put the points you’d like feedback on in the message when you send the file to me, as I put the files elsewhere and don’t tend to refer back to messages. This makes it more likely that I’ll miss them if they aren’t contained in the document when I come to read it.\n\n\nA.6.4 What format should be sent for the drafts?\nAll documents (proposal, ethics, Intro, Methods, Results/Analysis) should be in Word. An exception to this is copies of standardised measures (this might be in pdf, which is fine)."
+  },
+  {
+    "objectID": "appendix_a.html#supervision-sessions",
+    "href": "appendix_a.html#supervision-sessions",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.7 Supervision sessions",
+    "text": "A.7 Supervision sessions\n\nA.7.1 Group Sessions\nIn each session, there will be time for questions and we will also go round the group and see how everyone’s project is going. We will also spend time discussing certain aspects of the dissertation, and I will provide resources as appropriate.\nI have planned out the group sessions as follows (although these are subject to change if required):\nSemester 1\n\nWeek 1: Getting to know each other, topics, proposals\nWeek 3: Ethics, research questions\nWeek 5: Summarising papers, bullet point introductions\nWeek 7: Discussing the bullet point intros, participant recruitment, reducing perfectionism\nWeek 9: Collecting data, developing evaluation (intro)\nWeek 11: Structure (i.e. reverse outlines), JARS guidelines\n\nSemester 2\n\nWeek 1: Receiving and applying feedback, presenting work\nWeek 3: Analysis (quant and qual)\nWeek 5: Developing evaluation (discussion), linking in theory\nWeek 7: No-stakes presentations - everyone will present a 5 min summary of study findings so far (these can be very roughand initial if you haven’t completed analysis)\nWeek 9: Final group session - bring your questions\nWeek 11: Longer session: Celebration combined with practice talks for the UG conference/BPS conference\n\n\n\nA.7.2 Individual sessions\nIndividual sessions are dedicated slots each fortnight for you. Here, we will tend to catch up on how your project is going, and you will have the opportunity to ask questions. These may be used more often at certain points in the year (e.g. getting ethics together) than others (e.g. once your data collection is all set up).\nMost people come along every week, but if you find one week that you don’t need to meet, it’s not an issue - just let me know and we can cancel it."
+  },
+  {
+    "objectID": "appendix_a.html#peer-review",
+    "href": "appendix_a.html#peer-review",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.8 Peer Review",
+    "text": "A.8 Peer Review\nI am not allowed to look at a draft of the Discussion section, so there will be the opportunity to peer review each others’ discussion sections. We will discuss this in Semester 2, in the group sessions.\nI will provide some guidelines around peer review, and you can choose whether to take part or not. I am happy to set things up for you if you want, or can take a step back and you can organise within yourselves. Everyone who wants to take part must be included."
+  },
+  {
+    "objectID": "appendix_a.html#future-aspirations",
+    "href": "appendix_a.html#future-aspirations",
+    "title": "Appendix A — Setting expectations for dissertation students",
+    "section": "A.9 Future aspirations",
+    "text": "A.9 Future aspirations\nI realise that some people get a bit nervous when asked the ‘what are your plans after graduation?’ question, but I will ask you about this at some point during semester 1. I will most likely do this in individual supervision. The reason that I do it is so that I can see if there is anything I/your peers can do throughout the dissertation process to support your future plans.\nIf you don’t know what you want to do, this is also fine, but it is then about seeing if we can maximise development of your employability skills, which will then be helpful in whichever direction you decide to go in :)."
   }
 ]

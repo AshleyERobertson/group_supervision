@@ -16,7 +16,7 @@ book:
     roles: ~
   doi: ''
   license: CC-BY
-  description: Book Description
+  description: This book contains resources for group supervision of dissertation projects
   cover-image: images/logos/logo.png
   image: images/logos/logo.png
   favicon: images/logos/logo.png
@@ -49,8 +49,9 @@ book:
   page-footer:  CC-BY (2024) Ashley Robertson
   chapters:
   - index.qmd
-  - instructions.qmd
+  - semester1.qmd
   appendices:
+  - appendix_a.qmd
   - webexercises.qmd
   - references.qmd
 bibliography: include/references.bib
