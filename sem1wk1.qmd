@@ -1,4 +1,7 @@
-# Semester 1 Week 1 {.unnumbered}
+---
+title: "Semester 1 Week 1"
+editor: visual
+---
 
 ## Getting to know each other, topics, proposals
 

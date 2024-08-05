@@ -1,4 +1,7 @@
-# Semester 1 Week 3 {.unnumbered}
+---
+title: "Semester 1 Week 3"
+editor: visual
+---
 
 ## Ethics, research questions
 
