@@ -3,4 +3,60 @@ title: "Semester 1 Week 11"
 editor: visual
 ---
 
- 
+## Structure (i.e. reverse outlines) and JARS guidelines
+
+This is the final group session I run in Semester 1. It's good to touch base and see where everyone is at in their projects, as things tend to start winding down (especially recruitment-wise) for the festive period. 
+
+In this session, I cover structure (specifically thinking about reverse outlines, so that larger structure of a document) and we also discuss the Journal Article Reporting Standards (JARS).
+
+I tend to reiterate to the students how important it is to get some rest over Christmas, and what they are looking forward to in Semester 2. I also mention the BPS conference and ask them to have a think about presenting there next semester.  
+
+### How are projects going?
+
+- I may have seen a few intros at this point, but it's likely students are still working on these. 
+- Some students will usually have started data collection.
+- Hopefully all ethical approvals should be back by now
+
+### Structure 
+
+- I mainly cover structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources on [PEEL in Chapter 20.2](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structure) of the Research Methods 1 book.
+- I use the [Reverse Outlines resource](https://explorationsofstyle.com/2011/02/09/reverse-outlines/) to discuss reviewing structure of a particular section (e.g. the Introduction)
+- Some things we discuss:
+    - a broad --> narrow structure can be helpful for the introduction (and the reverse for the discussion)
+    - are you covering one main point per paragraph or trying to squeeze too many in?
+    - try to think about the reader when writing - what do they know at each point? 
+    - does your reverse outline make sense? For example, does it jump around between topics or does the structure flow clearly?
+    - if covering quite disjointed topics in the intro, it might be worth considering using sub-headings
+    
+
+### Journal Article Reporting Standards (JARS) and other resources
+
+- In the second half of the session, we cover JARS guidelines. These are very useful, particularly for the methods sections and often results too (there tends to be less guidance on intro/discussion). 
+- The guidelines give some insight into what students might want to include, and has some suggestions for people who would be reviewing an article (i.e. what might they look for) which are useful to know 
+    - [Journal Article Reporting Standards (Qual)](https://apastyle.apa.org/jars/qualitative) 
+    - [Journal Article Reporting Standards (Quant)](https://apastyle.apa.org/jars/quantitative)
+    - [Journal Article Reporting Standards (Mixed Methods)](https://apastyle.apa.org/jars/mixed-methods)
+    
+- In addition, there have been Journal Article Reporting Standards for Race, Ethnicity, and Culture released
+    - [Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
+
+- As most of my research has been in autism, if I have any students working on this topic, I share a  resource by Bottema-Beutel et al (2021) on [avoiding ableist language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
+
+## Internal resources
+
+[Structuring paragraphs (PEEL) (Research Methods 1 team)](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structur)
+
+
+## External resources
+
+[Reverse outlines](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
+
+[Journal Article Reporting Standards (Qual)](https://apastyle.apa.org/jars/qualitative) 
+
+[Journal Article Reporting Standards (Quant)](https://apastyle.apa.org/jars/quantitative)
+
+[Journal Article Reporting Standards (Mixed Methods)](https://apastyle.apa.org/jars/mixed-methods)
+
+[Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
+
+[Bottema-Beutel et al (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
