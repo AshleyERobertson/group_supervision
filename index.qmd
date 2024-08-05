@@ -1,6 +1,6 @@
 # Overview {.unnumbered}
 
-I initially designed this resource to help structure my group supervision sessions, and have now set it up as a Quarto book to share with others. 
+I initially designed this resource to help structure my group supervision sessions, and have now set it up as an online book to share with others. It's written for supervisors as an audience, rather than for students. 
 
 There are a range of different resources contained within this book. In the section below, I give an overview of how I supervise and how my group supervision is structured. In the chapters that follow, I break down, week-by-week, what I cover along with the resources I use.
 
@@ -9,14 +9,13 @@ If you are interested in using any of these resources, please do! Feel free to p
 Where there are internal resources that I've used, I've either linked to the original source or have said who the resource has come from. Where there are external resources, I've provided the original source. 
 
  
+Each chapter (or week) tends to be structured as follows: 
 
-Each week is structured as follows: 
+- I start with an overview of what I cover in that session
 
-- I start with an 'overview', which is what I'm aiming to cover in that session 
+- I break down what I usually discuss with students. 
 
-- I'll break down what I usually discuss with students. 
-
-- If there are actions for the following week, I usually note these, to remind me to tell them in the session
+- If there are actions for the following week, I usually note these, to remind me to tell the students during the session
 
 - I will then have a section at the end linking to resources I made up, internal resources (these are resources from other people within School of Psychology and Neuroscience at the University of Glasgow) and/or external resources that I pass on to students. 
 
@@ -37,3 +36,39 @@ In 23-24, I made up sways to detail the supervision process for both [Level 4 st
 
 I've linked to examples of the sways above (please feel free to duplicate for your own use), but have also included the content in [Appendix A](https://ashleyerobertson.github.io/group_supervision/appendix_a.html)
  
+### Joint deadline document
+
+I use a deadline document for each cohort of supervisees. This details deadlines (I keep them as soft deadlines, but others might decide to do hard deadlines) and also notes when each draft was received and when I returned feedback. 
+
+It means I can keep on top of a) where each student is in the process, b) the order in which I receive sections (and therefore have to give feedback), and c) allows students to know where their draft is in the 'queue' (which might reduce unrealistic expectations of a return within a short timescale!). I allow students to view the spreadsheet but they are not able to edit it, meaning they can't change a deadline without talking to me about it. 
+
+Examples of deadline documents:
+
+- [Level 4 students deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EXzNumo-70BAlD-TFQMbF1oB4Mjl-yjOw359GmbMrqGuZQ?e=FLyjqy) 
+- [PGT ODL students deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EdI6pqRBI15LqAZ29mIrUOgBWyM9pXitlcvTJ9WvmRtRlg?e=Opxgba)
+
+### 'Themed' supervision
+
+I've taken an approach of doing themed sessions in supervision, covering things that everyone will need to know about and also incorporating the dissemination of resources for students. Some of these are resources I made up, some are resources from UoG SPaN staff members and others are from external sources. 
+
+Students have said they've found the resources helpful and have applied them to some of their other courses. I used to have the group sessions in the even weeks, but then some students go away for reading week, so I've moved them to the odd weeks.
+
+**Level 4 group supervision is as follows:** 
+
+- Semester 1 Week 1 - Getting to know each other, topics, proposals  
+- Semester 1 Week 3 - Ethics, research questions  
+- Semester 1 Week 5 - Summarising papers, bullet point introductions  
+- Semester 1 Week 7 - Discussing the bullet point intros (*students to bring bullet point intros*), participant recruitment, reducing perfectionism  
+- Semester 1 Week 9 - Collecting data, developing evaluation (intro)  
+- Semester 1 Week 11 - Structure (i.e. reverse outlines), JARS guidelines  
+
+- Semester 2 Week 1 - Receiving and applying feedback, presenting work 
+- Semester 2 Week 3 - Analysis (quant and qual) - *students to bring questions* 
+- Semester 2 Week 5 - Developing evaluation (discussion), linking in theory 
+- Semester 2 Week 7 - No-stakes presentations - *all students will present a 5 min summary of study findings so far* 
+- Semester 2 Week 9 - Final group session - *students to bring questions* 
+- Semester 2 Week 11 - LONGER SESSION - celebration and practice talks for UG conference/BPS. *Students to bring presentation slides* 
+
+Although dissertation hand-in is the Friday of Semester 2 Week 10 and so supervision has technically ended, as students were anxious about presenting their research I held an extra group session in Week 11 so they could do practice talks a few days before the UG conference. I will keep this for future years as students reported finding it supportive. 
+
+I do individual supervision in the even weeks, and do 30 mins per person. Other models that supervisors use is to do group supervision every week or some do one week group supervision, one week drop-in. 
