@@ -2,3 +2,47 @@
 title: "Semester 2 Week 5"
 editor: visual
 ---
+
+## Developing evaluation in the discussion, peer review of discussion
+
+In this session, we concentrate mainly on Discussion sections. I cover evaluation using the resources from the RM2 lab (Introductions were covered in [Semester 1 Week 9](https://ashleyerobertson.github.io/group_supervision/sem1wk9.html)). We then use this as jumping off point to talk about their Discussions. We then discuss peer review of Discussing sections.
+
+At the end of the session, I remind students that the next group session will be no-stakes presentations on their initial findings (no need to have completed analysis). There are no slides and they should prepare to talk for 5 mins.
+
+### Where are students at in developing projects?
+
+-   By week 5, projects should be finished in terms of data collection and analysis ongoing
+-   I would be expecting Methods sections to be submitted by now (unless the student is submitting it alongside results/analysis)
+
+### Evaluation in discussions
+
+-   Here, I show the students the poor and stronger versions of [excerpts within Discussions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/Eb-chzz3EvJIoBK5TA5SVPABtu8PhcfmV91U9FaehaGhFg?e=6UBAyc) and we then have a chat about what they think. The three things we look at are:
+    -   Linking findings to the evidence base
+        -   i.e. where students link to the evidence base but only say if it agrees/disagrees, rather than going further
+    -   Limitations
+        -   including quantitative limitations,
+        -   covering lots of different limitations but not going into depth
+    -   Implications
+        -   not linking to the evidence base in support
+        -   over-inflating the importance of the study
+-   I also (briefly) discuss with students the importance of situating their findings within the wider context (i.e. why is it important/does it link to theory etc.?).
+
+### Peer review of the Discussion section
+
+-   As students don't get feedback from supervisors on their Discussion sections, I discuss doing peer review with them.
+-   Either I can organise it or they can organise it within themselves (they usually self-organise along methods in some way (qual reading qual etc.))
+-   I provide them with a [some guidance for completing feedback](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
+
+## Internal resources
+
+\[Staff version of slides covering evaluation in discussions\](excerpts within Discussions\](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/Eb-chzz3EvJIoBK5TA5SVPABtu8PhcfmV91U9FaehaGhFg?e=6UBAyc)
+
+[Guidance on completing peer feedback for the Discussion](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
+
+[Resources on evaluation in Discussion sections (from RM2 ODL book)](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-discussions)
+
+## External resources
+
+[Guidance from APA about what to include in a Discussion section](https://www.apa.org/gradpsych/2006/01/findings)
+
+[Phrasebank from Manchester University](https://www.phrasebank.manchester.ac.uk/discussing-findings/) which students might find helpful as a starter, when discussing their findings

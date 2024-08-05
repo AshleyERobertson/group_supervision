@@ -2,3 +2,62 @@
 title: "Semester 2 Week 3"
 editor: visual
 ---
+
+## Analysis (quant and qual)
+
+In the previous session, I would have ended the group meeting by asking students to bring in their analysis questions. Discussing these questions takes up most of the session.
+
+In the rest of the session, I cover the following: a) if I have some students doing qual, I cover an example of getting depth in analysis, b) I remind students doing quant about the PsyTeachR resources and c) I provide some excerpts of Results/Analysis sections from previous student work (all anonmyised) and give these to the students to have a look at. The last one tends to generate a bit of discussion.
+
+### How are projects going?
+
+-   I would be expecting all intros to be submitted by this point, plus to have had a few methods submitted
+-   Data collection should be wrapping up imminently if not already completed
+-   Students should be writing up Methods if not yet submitted
+-   Those doing qual projects should be working on transcripts and have a cut-off for recruitment/data collection
+-   Those doing quant projects should be working on setting up their .rmd and getting set up for analysis
+
+### Questions
+
+Most of today's group session will be answering questions from students on analysis. I think I had a mixture of ones that students had posted on teams (with me saying I'd answer in the group session) and others that were asked only in the session.
+
+The students found it a useful experience, even if they hadn't thought much about it as those who were a bit further behind got answers to questions they hadn't thought of yet.
+
+### Qual resource
+
+For any qual students, I give them [Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis), and ask them what they think about the depth.
+
+### Quant resource
+
+For any quant students, I remind them about the [PsyTeachR resources](https://psyteachr.github.io/). Although they will be aware of the books they had in Levels 1 through 3, they will be less likely to know about the MSc resources. Over the past few years, I've had students find the [MSc Conversion book](https://psyteachr.github.io/quant-fun-v2/) useful, in particular,
+
+### Looking over excerpts of results/analysis
+
+-   Before the session, I will have prepared some results/analysis extracts from previous dissertations. I then give these out during the session and we discuss:
+    -   what they liked/what worked well
+        -   what they felt could be improved
+        -   one concrete thing that they might take forward when they come to write their own analysis section
+
+I also flag that these are not all A1 examples. The stuednts usually say they are surprised by how different they are, and this leads to a discussion about key things being covered but it's not 'one size fits all'.
+
+## Internal resources
+
+### Quantitative resources (PsyTeachR)
+
+[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+
+[Level 1 data skills](https://psyteachr.github.io/data-skills-v2/)
+
+[Level 2 data skills](https://psyteachr.github.io/analysis-v2/)
+
+[Level 3 data skills](https://psyteachr.github.io/stat-models-v1/)
+
+[MSc Conv (RM1/RM2)](https://psyteachr.github.io/quant-fun-v2/)
+
+[MSc RMOPS (Data Skills for Reporoducible Research)](https://psyteachr.github.io/reprores-v3/)
+
+### Qualitative resources (Research Methods 2 (F2F and ODL))
+
+[MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
+
+[MSc Conv ODL (RM2 ODL)](https://wtoivo.github.io/RM2-ODL-quali-book/index.html)

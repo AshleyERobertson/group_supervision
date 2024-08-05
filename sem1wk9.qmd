@@ -11,10 +11,10 @@ Although I cover data collection in Week 7 (if I have time), that was an initial
 
 ### How are projects going?
 
-- By now, ethics approvals should be imminent or through already
-- Some students may have already started data collection, or might be getting materials together in anticipation of starting
-- If doing secondary data analysis, the timeline is a bit less pressured
-- Students should be working on introductions
+-   By now, ethics approvals should be imminent or through already
+-   Some students may have already started data collection, or might be getting materials together in anticipation of starting
+-   If doing secondary data analysis, the timeline is a bit less pressured
+-   Students should be working on introductions
 
 ### Data Collection (Quant projects)
 
@@ -41,6 +41,15 @@ Although I cover data collection in Week 7 (if I have time), that was an initial
     -   Good to pilot things (e.g. with a friend). I'm also happy to help in office hours etc.
     -   Can practise with each other (i.e. others in the group) to help get comfortable
     -   Can be helpful to write a list of everything need to cover at the start and end so that they don't forget anything
+    
+### Evaluation in introductions
+
+In RM2, Wil and I have made some excerpts from intros and discussions for our labs. In today's session, I only cover intros and do discussions in a later session. 
+
+Here, I show the students the poor and stronger versions and we then have a discussion about it [(slides with notes)](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y). The three things we look at are:
+- Synthesising evidence 
+- Focused criticism 
+- Why is your study worth doing? 
 
 ## Internal resources
 
