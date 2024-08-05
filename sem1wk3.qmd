@@ -7,13 +7,21 @@ In this session, we talk about ethics and research questions. Most people workin
 ### Where are students at in developing projects?
 
 -   I tend to start off by going round the group and seeing where everyone is at with development of project ideas/firming things up.
-    -   In Week 3, I would expect that students are firming up their research questions and what their data collection/analysis will look like and have made progress in the proposal.\
+    -   In Week 3, I would expect that students are firming up their research questions and what their data collection/analysis will look like and have made progress in the proposal.
+
+### Research Questions
+
+-   I usually talk through some tips for developing a Research Question (quant and qual) as well as hypotheses (quant only), using resources from RM1 and RM2 (MSc Conversion courses) *see internal resources below*.\
+
+### Ethics
+
 -   Generally I will aim for ethics to be submitted around Week 6 (final submission, not submission to supervisor)
     -   Given this, when will we set as a deadline to get an initial first draft of ethics to supervisor? This date is then added to the spreadsheet for each student. Need to allow time for supervisor comments and student time to act on feedback.
         -   May need multiple drafts before ready to submit.
     -   What concerns do students have about ethics?\
     -   Discuss whether each project is likely to be secondary ethics, intranet ethics (low-risk option for Level 4 only) or College ethics (higher-risk/potential to publish for Level 4, all primary data collection for PGT) so students are clear on what they are expected to do.
--   Then I usually talk through some tips for developing a Research Question (quant and qual) as well as hypotheses (quant only), using resources from RM1 and RM2 (MSc Conversion courses).\
+    
+
 -   I will then ask students to make sure that they use the resources linked on the moodle for their ethics (templates and examples are available) and show them where this is.\
 -   There is one final resource available to them: commented versions of ethics applications from previous student projects (one quant and one qual).
 
