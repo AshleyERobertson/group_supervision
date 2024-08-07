@@ -3,7 +3,7 @@ title: "List of all resources"
 editor: visual
 ---
 
-In this chapter, I've included all resources that are included in the book. They are split by theme, as hopefully this makes it easier to identify which resource/s you might want to access. 
+In this chapter, I've included all resources that are included in the book. They are split by theme, as hopefully this makes it easier to identify which resource/s you might want to access.
 
 ## Developing a research question
 
@@ -28,7 +28,6 @@ Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](http
 ## Writing a bullet point intro
 
 [My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQXjzrHXEi5Fn_j_vqSYMk8BPqPqgMzNwBoPSZSvuvMd5w?e=k7i4GS) on writing a bullet point intro
-
 
 ## Developing a rationale
 
@@ -70,15 +69,13 @@ Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](http
 
 [Reverse outlines](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
 
-
 ## Perfection paralysis
 
-[Perfection Paralysis resource from Hidden Cirriculum](https://hiddencurriculum.ca/wp-content/uploads/articulate_uploads/perfection-paralysis/index.html#/lessons/hAZjtzG_2XP4B6Quwveg8YvAI2zRrlqi) 
-
+[Perfection Paralysis resource from Hidden Cirriculum](https://hiddencurriculum.ca/wp-content/uploads/articulate_uploads/perfection-paralysis/index.html#/lessons/hAZjtzG_2XP4B6Quwveg8YvAI2zRrlqi)
 
 ## Evaluation
 
-Staff version of the RM2 lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y) 
+Staff version of the RM2 lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y)
 
 Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/Eb-chzz3EvJIoBK5TA5SVPABtu8PhcfmV91U9FaehaGhFg?e=6UBAyc)
 
@@ -120,13 +117,10 @@ Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](ht
 
 [Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
 
-
 ## Guidelines for reporting research with autistic participants
 
 [Bottema-Beutel et al (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
 
-
 ## All-round useful resource
 
 [Hidden Curriclum website](https://hiddencurriculum.ca/) (contains lots of useful resources)
-
