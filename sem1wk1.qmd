@@ -35,12 +35,12 @@ Different supervisors have different ways of approaching the proposal - as most 
 
 Some things I discuss with students and ask them to think about:
 
-- Why are they conducting the study? 
-- What do they want to find out? - What data will they need? 
-- Who are they going to recruit? From where? 
-- What would your RQ/hypotheses be?
-- If quant, what analysis would you do for each hypothesis? 
-- If qual, how are you planning to analyse your data and why?
+-   Why are they conducting the study?
+-   What do they want to find out? - What data will they need?
+-   Who are they going to recruit? From where?
+-   What would your RQ/hypotheses be?
+-   If quant, what analysis would you do for each hypothesis?
+-   If qual, how are you planning to analyse your data and why?
 
 I also direct the students to the information on proposal writing on the Moodle (Level 4 Undergraduate)
 

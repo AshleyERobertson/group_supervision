@@ -3,7 +3,7 @@ title: "Semester 2 Week 7"
 editor: visual
 ---
 
-## No-stakes presentations
+## No-stakes presentations 
 
 In this session, I ask the students to come prepared to present five minutes on their findings. If they have results to present, they can summarise these. If they haven't completed their analysis, then they should present on what they've done so far and are planning to do.
 
