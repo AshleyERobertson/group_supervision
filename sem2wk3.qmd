@@ -9,7 +9,7 @@ In the previous session, I would have ended the group meeting by asking students
 
 In the rest of the session, I cover the following: a) if I have some students doing qual, I cover an example of getting depth in analysis, b) I remind students doing quant about the PsyTeachR resources and c) I provide some excerpts of Results/Analysis sections from previous student work (all anonmyised) and give these to the students to have a look at. The last one tends to generate a bit of discussion.
 
-### How are projects going?
+### Expected progress
 
 -   I would be expecting all intros to be submitted by this point, plus to have had a few methods submitted
 -   Data collection should be wrapping up imminently if not already completed
@@ -57,6 +57,8 @@ I also flag that these are not all A1 examples. The stuednts usually say they ar
 [MSc RMOPS (Data Skills for Reporoducible Research)](https://psyteachr.github.io/reprores-v3/)
 
 ### Qualitative resources (Research Methods 2 (F2F and ODL))
+
+[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
 
 [MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
 

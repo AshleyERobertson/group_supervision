@@ -7,10 +7,9 @@ editor: visual
 
 In this session, we talk about ethics and research questions. Most people working with me tend to submit their projects through College Ethics rather than the intranet, and so I focus on the importance of getting ethics submitted quickly as delays can hold projects up. There is more wiggle room if supervisors are supervising low-risk/secondary projects.
 
-### Where are students at in developing projects?
+### Expected progress
 
--   I tend to start off by going round the group and seeing where everyone is at with development of project ideas/firming things up.
-    -   In Week 3, I would expect that students are firming up their research questions and what their data collection/analysis will look like and have made progress in the proposal.
+-   In Week 3, I would expect that students are firming up their research questions and what their data collection/analysis will look like and have made progress in the proposal.
 
 ### Research Questions
 

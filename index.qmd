@@ -13,6 +13,8 @@ Each chapter (or week) tends to be structured as follows:
 
 - I start with an overview of what I cover in that session
 
+- I give a **rough** estimate of where I would typically expect students to be in their project. This is not set in stone and each project is different. It also is oriented towards projects with primary data collection, so would look different if a student was doing secondary data analysis. 
+
 - I break down what I usually discuss with students. 
 
 - If there are actions for the following week, I usually note these, to remind me to tell the students during the session

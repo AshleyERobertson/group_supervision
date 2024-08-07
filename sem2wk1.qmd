@@ -9,7 +9,7 @@ In this session, we see where everyone is now that we are back for Semester 2 (a
 
 At the end of the session, I tell students that the next group session is on analysis and ask them to bring any questions they have in for the session so we can cover them together.
 
-### How are projects going?
+### Expected progress
 
 -   Students should have submitted or be not too far off submitting a draft of the Introduction for feedback. They should also be working on their Methods.
 -   Students should be recruiting participants by now
@@ -47,3 +47,5 @@ I always highlight that they are in fourth year and so will be used to applying 
 [HEAdvance resource, August 2012](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/resources/10_feedback_resources_for_your_students2_1568036613.pdf)
 
 [Salford Uni resource](https://www.salford.ac.uk/sites/default/files/2019-12/Making-the-Most-of-Feedback.pdf)
+
+[Portsmouth Uni](https://www.port.ac.uk/student-life/help-and-advice/study-skills/speaking-skills-and-presentations) have some useful tips on presenting for students

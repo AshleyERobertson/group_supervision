@@ -63,8 +63,7 @@ book:
   - sem2wk11.qmd
   appendices:
   - appendix_a.qmd
-  - webexercises.qmd
-  - references.qmd
+  - all_resources.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
