@@ -6,8 +6,7 @@ There are a range of different resources contained within this book. In the sect
 
 If you are interested in using any of these resources, please do! Feel free to pick and choose/adapt any of the resources, incorporating what you want into your own supervision practice. 
 
-Where there are internal resources that I've used, I've either linked to the original source or have said who the resource has come from. Where there are external resources, I've provided the original source. 
-
+Where there are internal resources that I've used, I've either linked to the original source or have said who the resource has come from. Depending on the source, these may or may not be available if you are external to the University of Glasgow. Saying that, I've made as many available as possible. Where there are external resources, I've provided the original source. 
  
 Each chapter (or week) tends to be structured as follows: 
 
@@ -54,6 +53,8 @@ Examples of deadline documents:
 I've taken an approach of doing themed sessions in supervision, covering things that everyone will need to know about and also incorporating the dissemination of resources for students. Some of these are resources I made up, some are resources from UoG SPaN staff members and others are from external sources. 
 
 Students have said they've found the resources helpful and have applied them to some of their other courses. I used to have the group sessions in the even weeks, but then some students go away for reading week, so I've moved them to the odd weeks.
+
+The below structure is based on a dissertation starting in September (Semester 1 Week 1) and ending in mid-March (Semester 2 Week 10). This is likely to differ based on discipline and University.
 
 **Level 4 group supervision is as follows:** 
 
