@@ -6,7 +6,7 @@ project:
 execute:
   freeze: auto
 book:
-  title: Group Dissertation Supervision
+  title: Structured Group Supervision
   subtitle: ''
   author:
   - orcid: 0000-0001-9914-3199
