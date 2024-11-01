@@ -17,9 +17,9 @@ book:
   doi: ''
   license: CC-BY
   description: This book contains resources for group supervision of dissertation projects
-  cover-image: images/logos/logo.png
-  image: images/logos/logo.png
-  favicon: images/logos/logo.png
+  cover-image: images/logos/logo1.png
+  image: images/logos/logo1.png
+  favicon: images/logos/logo1.png
   cookie-consent: false
   google-analytics: ''
   page-navigation: true
