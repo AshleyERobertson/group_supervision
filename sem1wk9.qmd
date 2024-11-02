@@ -3,7 +3,7 @@ title: "Semester 1 Week 9"
 editor: visual
 ---
 
-## Collecting data, developing evaluation for the introduction 
+## Collecting data, developing evaluation for the introduction
 
 In this session, I tend to cover data collection (i.e. trying to pre-empt any issues before they happen) and also developing evaluation of the Introduction section. I usually have both quant and qual projects so cover both types of data collection - I would only cover one though, if students were only doing one type. We then cover evaluation in Intros using some resources that Wil and I developed for our Research Methods 2 course. (Discussions are covered in [Semester 2 Week 5](https://ashleyerobertson.github.io/group_supervision/sem2wk5.html))
 

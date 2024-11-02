@@ -3,7 +3,7 @@ title: "Semester 2 Week 5"
 editor: visual
 ---
 
-## Developing evaluation in the discussion, peer review of discussion 
+## Developing evaluation in the discussion, peer review of discussion
 
 In this session, we concentrate mainly on Discussion sections. I cover evaluation using the resources from the RM2 lab (Introductions were covered in [Semester 1 Week 9](https://ashleyerobertson.github.io/group_supervision/sem1wk9.html)). We then use this as jumping off point to talk about their Discussions. We then discuss peer review of Discussing sections.
 

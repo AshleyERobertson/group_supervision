@@ -3,7 +3,7 @@ title: "Semester 1 Week 11"
 editor: visual
 ---
 
-## Structure (i.e. reverse outlines) and JARS guidelines 
+## Structure (i.e. reverse outlines) and JARS guidelines
 
 This is the final group session I run in Semester 1. It's good to touch base and see where everyone is at in their projects, as things tend to start winding down (especially recruitment-wise) for the festive period.
 
