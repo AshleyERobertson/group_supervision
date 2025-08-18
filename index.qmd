@@ -1,4 +1,4 @@
-# Overview {.unnumbered}  
+# Overview {.unnumbered}
 
 I initially designed this resource to help structure my group supervision sessions, and have now set it up as an online book to share with others. It's written for supervisors as an audience, rather than for students. 
 

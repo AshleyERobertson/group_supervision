@@ -1,6 +1,6 @@
 ---
 title: "Semester 1 Week 7"
-editor: visual
+editor: visual 
 ---
 
 ## Discussing the bullet point intros, participant recruitment, reducing perfectionism
