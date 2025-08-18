@@ -1,0 +1,38 @@
+---
+title: "Semester 1 Week 3"
+editor: visual
+---
+
+## Ethics, research questions
+
+In this session, we talk about ethics and research questions. Most people working with me tend to submit their projects through College Ethics rather than the intranet, and so I focus on the importance of getting ethics submitted quickly as delays can hold projects up. There is more wiggle room if supervisors are supervising low-risk/secondary projects.
+
+### Expected progress
+
+-   In Week 3, I would expect that students are firming up their research questions and what their data collection/analysis will look like and have made progress in the proposal.
+
+### Research Questions
+
+-   I usually talk through some tips for developing a Research Question (quant and qual) as well as hypotheses (quant only), using resources from RM1 and RM2 (MSc Conversion courses) *see internal resources below*.\
+
+### Ethics
+
+-   Generally I will aim for ethics to be submitted around Week 6 (final submission, not submission to supervisor)
+    -   Given this, when will we set as a deadline to get an initial first draft of ethics to supervisor? This date is then added to the spreadsheet for each student. Need to allow time for supervisor comments and student time to act on feedback.
+        -   May need multiple drafts before ready to submit.
+    -   What concerns do students have about ethics?\
+    -   Discuss whether each project is likely to be secondary ethics, intranet ethics (low-risk option for Level 4 only) or College ethics (higher-risk/potential to publish for Level 4, all primary data collection for PGT) so students are clear on what they are expected to do.
+-   I will then ask students to make sure that they use the resources linked on the moodle for their ethics (templates and examples are available) and show them where this is.\
+-   There is one final resource available to them: commented versions of ethics applications from previous student projects (one quant and one qual).
+
+## Internal resources
+
+### Developing a research question
+
+[Research Methods 1](https://bartlettje.github.io/RM1_Resources/intro-rationale.html#present-the-research-question-and-hypothesis) has some tips for students on how to construct Research Questions and hypotheses for quantitative research
+
+[Research Methods 2](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html?q=research%20ques#developing-a-research-question) has some tips for students on how to construct Research Questions for qualitative research
+
+### Ethics
+
+**Specific to School of Psychology & Neuroscience**: The Moodle (Level 4, PGT) has a folder with templates and exemplars for ethics that should be used

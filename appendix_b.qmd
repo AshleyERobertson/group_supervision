@@ -1,0 +1,126 @@
+---
+title: "List of all resources"
+editor: visual
+---
+
+In this chapter, I've included all resources that are included in the book. They are split by theme, as hopefully this makes it easier to identify which resource/s you might want to access.
+
+## Developing a research question
+
+[Research Methods 1](https://bartlettje.github.io/RM1_Resources/intro-rationale.html#present-the-research-question-and-hypothesis) has some tips for students on how to construct Research Questions and hypotheses for quantitative research
+
+[Research Methods 2](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html?q=research%20ques#developing-a-research-question) has some tips for students on how to construct Research Questions for qualitative research
+
+## Ethics
+
+**Specific to Psychology, School of Psychology & Neuroscience**: The Moodle (Level 4, PGT) has a folder with templates and exemplars for ethics that should be used
+
+Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP) and [how to recruit on SONA](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play)
+
+[Guidance on SONA](https://gla-my.sharepoint.com/:b:/g/personal/ashley_robertson_glasgow_ac_uk/EaSibUgmSh1IpgvFOpf3kBoBH7fD4NiT29yNVP0fvblWYA?e=ZtuuEg)
+
+## Summarising a paper
+
+[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeJ0BD6jBxpPqnh4Qdfsu-sB6QIS0hng8LFe1AMx9AP_ow?e=hJLrOP) on summarising papers
+
+[Teach Science.org notes on how to take notes on a research paper](https://teachpsychscience.org/index.php/a-guide-and-template-for-taking-notes-on-research/815/communicating-science/)
+
+## Writing a bullet point intro
+
+[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQXjzrHXEi5Fn_j_vqSYMk8BPqPqgMzNwBoPSZSvuvMd5w?e=k7i4GS) on writing a bullet point intro
+
+## Developing a rationale
+
+[Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
+
+## Analysis in Quantitative Research
+
+[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+
+[Level 1 data skills](https://psyteachr.github.io/data-skills-v2/)
+
+[Level 2 data skills](https://psyteachr.github.io/analysis-v2/)
+
+[Level 3 data skills](https://psyteachr.github.io/stat-models-v1/)
+
+[MSc Conv (RM1/RM2)](https://psyteachr.github.io/quant-fun-v2/)
+
+[MSc RMOPS (Data Skills for Reporoducible Research)](https://psyteachr.github.io/reprores-v3/)
+
+## Analysis in Qualitative Research
+
+[MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
+
+[MSc Conv ODL (RM2 ODL)](https://wtoivo.github.io/RM2-ODL-quali-book/index.html)
+
+[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+
+## General writing advice
+
+[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EbwPxiMzqMBDqJ0cEwkwLhoBqpcaSxzpf3K-VG1YePhHSg?e=cpfho9) on writing a dissertation
+
+[General writing tips for quantitative research](https://bartlettje.github.io/RM1_Resources/Resources.html) (from the RM1 team): (Chapters 17-25)
+
+[General writing tips for qualitative research](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html) (from the RM2 team)
+
+## Writing structure
+
+[Structuring paragraphs (PEEL) (Research Methods 1 team)](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structur)
+
+[Reverse outlines](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
+
+## Perfection paralysis
+
+[Perfection Paralysis resource from Hidden Cirriculum](https://hiddencurriculum.ca/wp-content/uploads/articulate_uploads/perfection-paralysis/index.html#/lessons/hAZjtzG_2XP4B6Quwveg8YvAI2zRrlqi)
+
+## Evaluation
+
+Staff version of the RM2 lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y)
+
+Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/Eb-chzz3EvJIoBK5TA5SVPABtu8PhcfmV91U9FaehaGhFg?e=6UBAyc)
+
+[Resources on evaluation in Discussion sections (from RM2 ODL book)](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-discussions)
+
+## Writing the Discussion
+
+[Guidance from APA about what to include in a Discussion section](https://www.apa.org/gradpsych/2006/01/findings)
+
+[Phrasebank from Manchester University](https://www.phrasebank.manchester.ac.uk/discussing-findings/) which students might find helpful as a starter, when discussing their findings
+
+[Guidance on completing peer feedback for the Discussion](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
+
+## Using and applying feedback
+
+[Guidance on the type of feedback I tend to give for dissertations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Ead4D1hp_7FOi4TlUVQA_O4B9dZcvARaCYuyIWtw3uO0MA?e=K2rR0W) **Please note, this talks through how I give feedback, so may be different to how you would give feedback on drafts**
+
+[Useful resources on feedback](https://moodle.gla.ac.uk/course/view.php?id=4529&section=5) in the Psychology & Neuroscience General Information moodle, including a [Feedback and Study Guide](https://moodle.gla.ac.uk/mod/book/view.php?id=1076576). **School of Psychology & Neuroscience only**
+
+[Hepplestone et al., 2010](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/tfa_student_guide_1568036746.pdf)
+
+[HEAdvance resource, August 2012](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/resources/10_feedback_resources_for_your_students2_1568036613.pdf)
+
+[Salford Uni resource](https://www.salford.ac.uk/sites/default/files/2019-12/Making-the-Most-of-Feedback.pdf)
+
+## Tips on presenting
+
+[Guidance on presentations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQh-1I7HCsBGkpcK6WmxPUUB_7JmqoRw1LINLhLWATig6w?e=2AYZfm)
+
+[Portsmouth Uni](https://www.port.ac.uk/student-life/help-and-advice/study-skills/speaking-skills-and-presentations) have some useful tips on presenting for students
+
+## Journal Article Reporting Standards
+
+[Journal Article Reporting Standards (Qual)](https://apastyle.apa.org/jars/qualitative)
+
+[Journal Article Reporting Standards (Quant)](https://apastyle.apa.org/jars/quantitative)
+
+[Journal Article Reporting Standards (Mixed Methods)](https://apastyle.apa.org/jars/mixed-methods)
+
+[Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
+
+## Guidelines for reporting research with autistic participants
+
+[Bottema-Beutel et al (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
+
+## All-round useful resource
+
+[Hidden Curriclum website](https://hiddencurriculum.ca/) (contains lots of useful resources)
