@@ -6,17 +6,12 @@ project:
 execute:
   freeze: auto
 book:
-  title: Structured Group Supervision
+  title: RM2 ODL Qualitative Project Resources
   subtitle: ''
-  author:
-  - orcid: 0000-0001-9914-3199
-    name:
-      family: Robertson
-      given: Ashley
-    roles: ~
+  author: Ashley Robertson & Wil Toivo
   doi: ''
   license: CC-BY
-  description: This book contains resources for group supervision of dissertation projects
+  description: This book contains resources for the qualitative project in Research Methods 2 ODL
   cover-image: images/logos/logo1.png
   image: images/logos/logo1.png
   favicon: images/logos/logo1.png
@@ -46,24 +41,22 @@ book:
     header: ''
     footer: ''
   margin-header: ''
-  page-footer:  CC-BY (2024) Ashley Robertson
+  page-footer:  CC-BY (2025) Ashley Robertson & Wil Toivo
   chapters:
   - index.qmd
-  - sem1wk1.qmd
-  - sem1wk3.qmd
-  - sem1wk5.qmd
-  - sem1wk7.qmd
-  - sem1wk9.qmd
-  - sem1wk11.qmd
-  - sem2wk1.qmd
-  - sem2wk3.qmd
-  - sem2wk5.qmd
-  - sem2wk7.qmd
-  - sem2wk9.qmd
-  - sem2wk11.qmd
+  - 01_Qualitative_designs.qmd
+  - 02_Qualitative_questions.qmd
+  - 03_Data_collection.qmd
+  - 04_Data_analysis.qmd
+  - 05_UsingNVivo.qmd
+  - 06_Ethics_rigour_reflexivity.qmd
+  - 07_Group_project.qmd
+  - 08_Academic_writing.qmd
+  - 09_Qualitative_report.qmd
+  - 10_FAQs.qmd
   appendices:
-  - appendix_a.qmd
-  - appendix_b.qmd
+  - appendix_a_showcase.qmd
+  - appendix_b_employability.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

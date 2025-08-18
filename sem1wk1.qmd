@@ -4,7 +4,7 @@ editor: visual
 ---
 
 ## Getting to know each other, topics, proposals
- 
+
 In the first session, the purpose is mainly to get to know each other - what topics are students interested in? We also have a look over what is required for the dissertation proposal and discuss what they can expect as part of supervision.
 
 ### Introductions and topics

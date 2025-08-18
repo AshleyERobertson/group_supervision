@@ -1,83 +1,10 @@
-# Overview {.unnumbered}  
+# Overview {.unnumbered} 
 
-I initially designed this resource to help structure my group supervision sessions, and have now set it up as an online book to share with others. It's written for supervisors as an audience, rather than for students. 
+In this book, you will find the resources you need to complete the qualitative project for your Research Methods 2 course. 
 
-### Partner book
+We will work through the book step-by-step, linking to relevant sections on Moodle. However, as the resources are made available from the start, you will also have some flexibility to work at a pace that suits you. 
 
-Dr Holly Scott and I have also developed a joint resource [Group SupervisoR](https://ashleyerobertson.github.io/group_dissertation_supervision/), which provides an introduction to supervising in groups and discusses different ways in which this could be done. 
+You will become familiar with the book in Semester 1, as we will ask you to look at certain sections to accompany the lecture content. However, the book will become most relevant in Semester 2, when you complete your larger assignments. 
 
-### How the book is structured
+You will find links to each chapter at the left hand side of the page, and then there will be links to each heading within a chapter at the right hand side.
 
-There are a range of different resources contained within this book. In the section below, I give an overview of how I supervise and how my group supervision is structured. In the chapters that follow, I break down, week-by-week, what I cover along with the resources I use.
-
-If you are interested in using any of these resources, please do! Feel free to pick and choose/adapt any of the resources, incorporating what you want into your own supervision practice. 
-
-Where there are internal resources that I've used, I've either linked to the original source or have said who the resource has come from. Depending on the source, these may or may not be available if you are external to the University of Glasgow. Saying that, I've made as many available as possible. Where there are external resources, I've provided the original source. 
- 
-Each chapter (or week) tends to be structured as follows: 
-
-- I start with an overview of what I cover in that session
-
-- I give a **rough** estimate of where I would typically expect students to be in their project. This is not set in stone and each project is different. It also is oriented towards projects with primary data collection, so would look different if a student was doing secondary data analysis. 
-
-- I break down what I usually discuss with students. 
-
-- If there are actions for the following week, I usually note these, to remind me to tell the students during the session
-
-- I will then have a section at the end linking to resources I made up, internal resources (these are resources from other people within School of Psychology and Neuroscience at the University of Glasgow) and/or external resources that I pass on to students. 
-
-
-## How I structure my supervision
-
-The way I run my dissertation supervision is: 
-
-- Level 4 students have a combination of individual supervision and group supervision (switching between each on a weekly basis). I, personally, like having both types rather than just doing group or individual. 
-- PGT ODL students have individual supervision (30 mins) on a fortnightly basis (this is because they are part-time and online distance-learning). I also hold a couple of group sessions through the year to get them in touch with each other so they can provide peer support, although many work full-time or in schools etc., which combined with time zones, makes it difficult to find a time to suit everyone. I record these so everyone can benefit.  
-
-Therefore, most of these resources apply to my UG dissertation students, but could easily be applied to PGT, especially those studying on campus.  
-
-
-### Setting expectations with students
-
-In 23-24, I made up sways to detail the supervision process for both [Level 4 students](https://sway.cloud.microsoft/QTCoK14sojeLoUd3?ref=Link) and [ODL students](https://sway.cloud.microsoft/Pb5M1b1TEdgxdquK?ref=Link). They were well-received, but the students who went out of their way to tell me that they found it helpful were those who were neurodivergent, as it meant they knew what to expect. I think they would also be quite helpful for international students, as previous supervision experiences at university might have been very different. 
-
-I've linked to examples of the sways above (please feel free to duplicate for your own use), but have also included the content in [Appendix A](https://ashleyerobertson.github.io/group_supervision/appendix_a.html)
- 
-### Joint deadline document
-
-I use a deadline document for each cohort of supervisees. This details deadlines (I keep them as soft deadlines, but others might decide to do hard deadlines) and also notes when each draft was received and when I returned feedback. 
-
-It means I can keep on top of a) where each student is in the process, b) the order in which I receive sections (and therefore have to give feedback), and c) allows students to know where their draft is in the 'queue' (which might reduce unrealistic expectations of a return within a short timescale!). I allow students to view the spreadsheet but they are not able to edit it, meaning they can't change a deadline without talking to me about it. 
-
-Examples of deadline documents:
-
-- [Level 4 students deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EXzNumo-70BAlD-TFQMbF1oB4Mjl-yjOw359GmbMrqGuZQ?e=FLyjqy) 
-- [PGT ODL students deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EdI6pqRBI15LqAZ29mIrUOgBWyM9pXitlcvTJ9WvmRtRlg?e=Opxgba)
-
-### 'Themed' supervision
-
-I've taken an approach of doing themed sessions in supervision, covering things that everyone will need to know about and also incorporating the dissemination of resources for students. Some of these are resources I made up, some are resources from UoG SPaN staff members and others are from external sources. 
-
-Students have said they've found the resources helpful and have applied them to some of their other courses. I used to have the group sessions in the even weeks, but then some students go away for reading week, so I've moved them to the odd weeks.
-
-The below structure is based on a dissertation starting in September (Semester 1 Week 1) and ending in mid-March (Semester 2 Week 10). This is likely to differ based on discipline and University.
-
-**Level 4 group supervision is as follows:** 
-
-- Semester 1 Week 1 - Getting to know each other, topics, proposals  
-- Semester 1 Week 3 - Ethics, research questions  
-- Semester 1 Week 5 - Summarising papers, writing, bullet point introductions  
-- Semester 1 Week 7 - Discussing the bullet point intros (*students to bring bullet point intros*), participant recruitment, reducing perfectionism  
-- Semester 1 Week 9 - Collecting data, developing evaluation (intro)  
-- Semester 1 Week 11 - Structure (i.e. reverse outlines), JARS guidelines  
-
-- Semester 2 Week 1 - Receiving and applying feedback, presenting work 
-- Semester 2 Week 3 - Analysis (quant and qual) - *students to bring questions* 
-- Semester 2 Week 5 - Developing evaluation (discussion), peer review of discussion
-- Semester 2 Week 7 - No-stakes presentations - *all students will present a 5 min summary of study findings so far* 
-- Semester 2 Week 9 - Final group session - *students to bring questions* 
-- Semester 2 Week 11 - LONGER SESSION - celebration and practice talks for UG conference/BPS. *Students to bring presentation slides* 
-
-Although dissertation hand-in is the Friday of Semester 2 Week 10 and so supervision has technically ended, as students were anxious about presenting their research I held an extra group session in Week 11 so they could do practice talks a few days before the UG conference. I will keep this for future years as students reported finding it supportive. 
-
-I do individual supervision in the even weeks, and do 30 mins per person. Other models that supervisors use is to do group supervision every week or some do one week group supervision, one week drop-in. 
