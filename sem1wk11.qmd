@@ -19,7 +19,7 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 
 ### Structure
 
--   I mainly cover structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources on [PEEL in Chapter 20.2](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structure) of the Research Methods 1 book.
+-   I mainly cover structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources on [PEEL in Chapter 20.2](https://bartlettje.github.io/RM1-resources-v2/06-Writing-07-Writing.html#paragraph-structure) of the Research Methods 1 book.
 -   I use the [Reverse Outlines resource](https://explorationsofstyle.com/2011/02/09/reverse-outlines/) to discuss reviewing structure of a particular section (e.g. the Introduction)
 -   Some things we discuss:
     -   a broad --\> narrow structure can be helpful for the introduction (and the reverse for the discussion)
@@ -41,7 +41,7 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 
 ## Internal resources
 
-[Structuring paragraphs (PEEL) (Research Methods 1 team)](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structur)
+[Structuring paragraphs (PEEL) (Research Methods 1 team)](https://bartlettje.github.io/RM1-resources-v2/06-Writing-07-Writing.html#paragraph-structure)
 
 ## External resources
 

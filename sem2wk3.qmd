@@ -29,7 +29,7 @@ For any qual students, I give them [Activity 2 from Lab 9 in RM2](https://wtoivo
 
 ### Quant resource
 
-For any quant students, I remind them about the [PsyTeachR resources](https://psyteachr.github.io/). Although they will be aware of the books they had in Levels 1 through 3, they will be less likely to know about the MSc resources. Over the past few years, I've had students find the [MSc Conversion book](https://psyteachr.github.io/quant-fun-v2/) useful, in particular,
+For any quant students, I remind them about the [PsyTeachR resources](https://psyteachr.github.io/). Although they will be aware of the books they had in Levels 1 through 3, they will be less likely to know about the MSc resources. Over the past few years, I've had students find the [MSc Conversion book](https://psyteachr.github.io/quant-fun-v3/) useful, in particular,
 
 ### Looking over excerpts of results/analysis
 
@@ -52,14 +52,14 @@ I also flag that these are not all A1 examples. The stuednts usually say they ar
 
 [Level 3 data skills](https://psyteachr.github.io/stat-models-v1/)
 
-[MSc Conv (RM1/RM2)](https://psyteachr.github.io/quant-fun-v2/)
+[MSc Conv (RM1/RM2)](https://psyteachr.github.io/quant-fun-v3/)
 
 [MSc RMOPS (Data Skills for Reporoducible Research)](https://psyteachr.github.io/reprores-v3/)
 
 ### Qualitative resources (Research Methods 2 (F2F and ODL))
 
-[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+[Activity 2 from Lab 9 in RM2](https://ashleyerobertson.github.io/RM2_F2F_quali_book_v4/01_labs.html#week-9-lab-8-analysis-coding)
 
-[MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
+[MSc Conv (RM2)](https://ashleyerobertson.github.io/RM2_F2F_quali_book_v4)
 
-[MSc Conv ODL (RM2 ODL)](https://wtoivo.github.io/RM2-ODL-quali-book/index.html)
+[MSc Conv ODL (RM2 ODL)](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4)

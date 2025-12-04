@@ -29,9 +29,9 @@ In this session, we talk about ethics and research questions. Most people workin
 
 ### Developing a research question
 
-[Research Methods 1](https://bartlettje.github.io/RM1_Resources/intro-rationale.html#present-the-research-question-and-hypothesis) has some tips for students on how to construct Research Questions and hypotheses for quantitative research
+[Research Methods 1](https://bartlettje.github.io/RM1-resources-v2/06-Writing-02-Rationale.html#present-the-research-question-and-hypothesis) has some tips for students on how to construct Research Questions and hypotheses for quantitative research
 
-[Research Methods 2](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html?q=research%20ques#developing-a-research-question) has some tips for students on how to construct Research Questions for qualitative research
+[Research Methods 2](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4/12_Qualitative_report.html#developing-a-research-question) has some tips for students on how to construct Research Questions for qualitative research
 
 ### Ethics
 
