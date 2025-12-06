@@ -4,7 +4,7 @@ I initially designed this resource to help structure my group supervision sessio
 
 ### Partner book
 
-Dr Holly Scott and I have also developed a joint resource [Group SupervisoR](https://ashleyerobertson.github.io/group_dissertation_supervision/), which provides an introduction to supervising in groups and discusses different ways in which this could be done. 
+Dr Holly Neill and I have also developed a joint resource [Group SupervisoR](https://ashleyerobertson.github.io/group_dissertation_supervision/), which provides an introduction to supervising in groups and discusses different ways in which this could be done. 
 
 ### How the book is structured
 
