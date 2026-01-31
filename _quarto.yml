@@ -3,8 +3,6 @@ project:
   type: book
   output-dir: docs
   resources: resources
-website:
-  google-analytics: G-B57KN8ELGK
 execute:
   freeze: auto
 book:
@@ -23,7 +21,7 @@ book:
   image: images/logos/logo1.png
   favicon: images/logos/logo1.png
   cookie-consent: false
-  google-analytics: ''
+  google-analytics: G-B57KN8ELGK
   page-navigation: true
   search: true
   downloads:
