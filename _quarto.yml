@@ -3,6 +3,8 @@ project:
   type: book
   output-dir: docs
   resources: resources
+website:
+  google-analytics: G-B57KN8ELGK
 execute:
   freeze: auto
 book:
