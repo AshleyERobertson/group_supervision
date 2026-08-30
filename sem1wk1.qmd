@@ -42,14 +42,11 @@ Some things I discuss with students and ask them to think about:
 -   If quant, what analysis would you do for each hypothesis?
 -   If qual, how are you planning to analyse your data and why?
 
-I also direct the students to the information on proposal writing on the Moodle (Level 4 Undergraduate)
+I also direct the students to the information on proposal writing on the Moodle.
 
 ### Other things to cover
 
--   I show the students where the Level 4 moodle is (usually there are at least a few who aren't aware of this)
--   I introduce the idea of deciding between College vs. intranet for ethics (will depend on their project)
+-   I show the students where the Dissertation-specific Moodle is (usually there are at least a few who aren't aware of this)
+-   I introduce the idea of deciding between College vs. intranet for ethics (which route we go down will depend on their project)
 -   Mention that one things I'm doing is building up a bank of data that future students can use. Ideally, I would like all projects that collect data to have an option in it for storage of the data and keeping it so students can analyse it in the future.
 
-## Internal resources
-
-**Specific to School of Psychology & Neuroscience**: In the Level 4 moodle for the dissertation, Chiara has included a section called 'Project Management & Time Saving Tools'. In this, there is information about the proposal, a proforma and also an example research proposal.

@@ -39,7 +39,7 @@ Therefore, most of these resources apply to my UG dissertation students, but cou
 
 ### Setting expectations with students
 
-In 23-24, I made up sways to detail the supervision process for both [Level 4 students](https://sway.cloud.microsoft/QTCoK14sojeLoUd3?ref=Link) and [ODL students](https://sway.cloud.microsoft/Pb5M1b1TEdgxdquK?ref=Link). They were well-received, but the students who went out of their way to tell me that they found it helpful were those who were neurodivergent, as it meant they knew what to expect. I think they would also be quite helpful for international students, as previous supervision experiences at university might have been very different. 
+In 23-24, I made up sways to detail the supervision process for both [Level 4 students](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Intro_Resource1_Example_UG_Expectations.pdf) and [ODL students](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Intro_Resource2_Example_PGT_ODL_Expectations.pdf). They were well-received, but the students who went out of their way to tell me that they found it helpful were those who were neurodivergent, as it meant they knew what to expect. I think they would also be quite helpful for international students, as previous supervision experiences at university might have been very different. 
 
 I've linked to examples of the sways above (please feel free to duplicate for your own use), but have also included the content in [Appendix A](https://ashleyerobertson.github.io/group_supervision/appendix_a.html)
  
@@ -51,8 +51,8 @@ It means I can keep on top of a) where each student is in the process, b) the or
 
 Examples of deadline documents:
 
-- [Level 4 students deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EXzNumo-70BAlD-TFQMbF1oB4Mjl-yjOw359GmbMrqGuZQ?e=FLyjqy) 
-- [PGT ODL students deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EdI6pqRBI15LqAZ29mIrUOgBWyM9pXitlcvTJ9WvmRtRlg?e=Opxgba)
+- [Level 4 students deadline document](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Intro_Resource3_Example_UG_TrackingDrafts.xlsx) 
+- [PGT ODL students deadline document](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Intro_Resource4_Example_PGT_ODL_TrackingDrafts.xlsx)
 
 ### 'Themed' supervision
 
@@ -81,5 +81,3 @@ The below structure is based on a dissertation starting in September (Semester 1
 Although dissertation hand-in is the Friday of Semester 2 Week 10 and so supervision has technically ended, as students were anxious about presenting their research I held an extra group session in Week 11 so they could do practice talks a few days before the UG conference. I will keep this for future years as students reported finding it supportive. 
 
 I do individual supervision in the even weeks, and do 30 mins per person. Other models that supervisors use is to do group supervision every week or some do one week group supervision, one week drop-in. 
-
-01/02/2026 

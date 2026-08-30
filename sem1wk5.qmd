@@ -7,7 +7,7 @@ editor: visual
 
 In this session, we cover summarising papers as well as general writing advice before specifically covering bullet point introductions. I then ask students to bring a bullet point introduction with them into the Semester 1 Week 7 session.
 
-I've made some [notes for this session](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeTpe8KOecFNvPUzETtY3U8B34TUuXe1Ogy6ZFNDAbTPcw?e=EMHCKI). Feel free to use/adapt etc. as you wish.
+I've made some [notes for this session](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk5_Resources1_2_3_Writing_and_Editing.docx). Feel free to use/adapt etc. as you wish.
 
 ### Expected progress
 
@@ -35,17 +35,17 @@ I've made some [notes for this session](https://gla-my.sharepoint.com/:w:/g/pers
 -   I discuss that I would like everyone to write a bullet point introduction for the next session. I tell students that I do not expect this to be perfect, and that it can change down the line
 -   We go through some of the suggestions I have for writing this.
 -   I ask students to post on the Teams channel before the next group meeting (in two weeks time) but others may choose a different process
--   I signpost them to [Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale for their introduction.
+-   I signpost them to [Wil Toivo's resource](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk5_Resource4_WilToivo_DevRationale.docx) on developing a rationale for their introduction.
 
 ## Internal resources
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeTpe8KOecFNvPUzETtY3U8B34TUuXe1Ogy6ZFNDAbTPcw?e=EMHCKI) on summarising papers, writing in general, and developing a bullet point intro
+[My suggestions](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk5_Resources1_2_3_Writing_and_Editing.docx) on summarising papers, writing in general, and developing a bullet point intro
 
 [Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
 
-[General writing tips for quantitative research](https://bartlettje.github.io/RM1-resources-v2/06-Writing-02-Rationale.html) (from the RM1 team): (Chapters 11-20)
+[Academic writing tips for quantitative research](https://bartlettje.github.io/RM1-resources-v2/) (from the RM1 team): (Chapter 4)
 
-[General writing tips for qualitative research](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4/11_Academic_writing.html) (from the RM2 team)
+[GAcademic writing tips for qualitative research](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4/) (from the RM2 team): Chapter 7
 
 ## External resources
 
