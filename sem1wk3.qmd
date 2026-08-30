@@ -33,6 +33,4 @@ Chapter 3.1 of the [Research Methods 1: Writing Resources](https://bartlettje.gi
 
 Chapter 8.2 of the [Research Methods 2](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4/) book has some tips for students on how to construct Research Questions for qualitative research
 
-### Ethics
-
-**Specific to School of Psychology & Neuroscience**: The Moodle (Level 4, PGT) has a folder with templates and exemplars for ethics that should be used
+### 
