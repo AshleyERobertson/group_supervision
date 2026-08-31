@@ -20,14 +20,15 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 ### Structure
 
 -   I mainly cover structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources in the Research Methods 1 book [PEEL (Point, Evidence, Explain, Link)](https://bartlettje.github.io/RM1-resources-v2/) - see Chapter 4.2. Where PEEL checks whether a single paragraph is doing its job internally, reverse outlining (below) checks whether the paragraphs collectively build the right argument once you strip away the detail, so the two operate at different levels of the same structural problem.
--   I use the [Reverse Outlines resource](https://explorationsofstyle.com/2011/02/09/reverse-outlines/) to discuss reviewing structure of a particular section (e.g. the Introduction). 
-  -   The method itself: number each paragraph, then write down its topic in just a few words (not the content, just what it's doing). Once they have that stripped-down list, that's what they examine.
+-   I use the [Reverse Outlines resource](https://explorationsofstyle.com/2011/02/09/reverse-outlines/) to discuss reviewing structure of a particular section (e.g. the Introduction).
+-   The method itself: number each paragraph, then write down its topic in just a few words (not the content, just what it's doing). Once they have that stripped-down list, that's what they examine.
+
 -   Some things we discuss:
-    -   a broad --> narrow structure can be helpful for the introduction (and the reverse for the discussion)
+    -   a broad --\> narrow structure can be helpful for the introduction (and the reverse for the discussion)
     -   are they covering one main point per paragraph or trying to squeeze too many in?
     -   I ask students to think about the reader when writing - what do they know at each point? Who are they? In my discipline, we suggest the second marker of the dissertation, or someone familiar with Psychology, but not the topic.
     -   Looking at the order: does their reverse outline make sense? For example, does it jump around between topics or does the structure flow clearly?
-    -   Looking at proportion, separately from order: is space being given according to importance, or is a minor point getting a long paragraph while something more central is squeezed into a couple of lines? This is the same judgement call as being selective about which literature earns detailed coverage, covered in the bullet-point intro chapter, just made visible here at the level of the whole section
+    -   Looking at proportion, separately from order: is space being given according to importance, or is a minor point getting a long paragraph while something more central is squeezed into a couple of lines? This is the same point made in Sem1 Wk 7, but instead thinking about the full section.
     -   if covering quite disjointed topics in the intro, it might be worth considering using sub-headings
 
 ### Journal Article Reporting Standards (JARS) and other resources
@@ -42,14 +43,13 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 -   It's worth being clear with students that JARS describes what a published journal article should report. This isn't the same as our marking criteria, even though there can be a lot of overlap. If the two ever diverge, our formal marking criteria takes priority. In the session, I frame JARS as good general practice for what belongs in a methods section, but with the caveat that the priority should be what the marking criteria, guidance from the course lead, supervisor says.
 -   As most of my research has been in autism, if I have any students working on this topic, I share a resource by Bottema-Beutel et al (2021) on [avoiding ableist language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
 
-
-::: {.callout-tip}
-
+::: callout-tip
 ## Activity: Apply JARS to a real methods section
-- Choose a methods section, either from a paper on your reading list or the one used for the reverse outline exercise earlier in this session
-- Open the JARS checklist that matches its design (Quant, Qual, or Mixed)
-- Go through the checklist and note what's reported and what's missing
-- Ask yourself: if you were reviewing this for a journal, would you have enough information to understand exactly what was done, and in principle, replicate it?
+
+-   Choose a methods section, either from a paper on your reading list or the one used for the reverse outline exercise earlier in this session
+-   Open the JARS checklist that matches its design (Quant, Qual, or Mixed)
+-   Go through the checklist and note what's reported and what's missing
+-   Ask yourself: if you were reviewing this for a journal, would you have enough information to understand exactly what was done, and in principle, replicate it?
 :::
 
 ## Internal resources
