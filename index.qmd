@@ -41,7 +41,7 @@ Therefore, most of these resources apply to my UG dissertation students, but cou
 
 In 23-24, I made up sways to detail the supervision process for both [Level 4 students](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Intro_Resource1_Example_UG_Expectations.pdf) and [ODL students](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Intro_Resource2_Example_PGT_ODL_Expectations.pdf). They were well-received, but the students who went out of their way to tell me that they found it helpful were those who were neurodivergent, as it meant they knew what to expect. I think they would also be quite helpful for international students, as previous supervision experiences at university might have been very different. 
 
-I've linked to examples of the sways above (please feel free to duplicate for your own use), but have also included the content in [Appendix A](https://ashleyerobertson.github.io/group_supervision/appendix_a.html)
+I've linked to examples of the sways above (please feel free to duplicate for your own use), but have also included my most recent version (26-27) of the Undergraduate version in [Appendix A](https://ashleyerobertson.github.io/group_supervision/appendix_a.html)
  
 ### Joint deadline document
 
@@ -60,7 +60,9 @@ I've taken an approach of doing themed sessions in supervision, covering things 
 
 Students have said they've found the resources helpful and have applied them to some of their other courses. I used to have the group sessions in the even weeks, but then some students go away for reading week, so I've moved them to the odd weeks.
 
-The below structure is based on a dissertation starting in September (Semester 1 Week 1) and ending in mid-March (Semester 2 Week 10). This is likely to differ based on discipline and University.
+The below structure is based on a dissertation starting in September (Semester 1 Week 1) and ending in marly to mid-March (Semester 2 Week 9). This is likely to differ based on discipline and University.
+
+In my School, we usually have the dissertation submission in Week 9 and the UG conference in Week 11, but this has been pushed forward by one week in 26/27 due to the Easter Bank Holiday.
 
 **Level 4 group supervision is as follows:** 
 
@@ -76,8 +78,6 @@ The below structure is based on a dissertation starting in September (Semester 1
 - Semester 2 Week 5 - Developing evaluation (discussion), peer review of discussion
 - Semester 2 Week 7 - No-stakes presentations - *all students will present a 5 min summary of study findings so far* 
 - Semester 2 Week 9 - Final group session - *students to bring questions* 
-- Semester 2 Week 11 - LONGER SESSION - celebration and practice talks for UG conference/BPS. *Students to bring presentation slides* 
+- Semester 2 Week 10/11 - LONGER SESSION - celebration and practice talks for UG conference/BPS. *Students to bring presentation slides* 
 
-Although dissertation hand-in is the Friday of Semester 2 Week 10 and so supervision has technically ended, as students were anxious about presenting their research I held an extra group session in Week 11 so they could do practice talks a few days before the UG conference. I will keep this for future years as students reported finding it supportive. 
-
-I do individual supervision in the even weeks, and do 30 mins per person. Other models that supervisors use is to do group supervision every week or some do one week group supervision, one week drop-in. 
+I do individual supervision in the even weeks, and do 30 mins per person. Other models used are to do group supervision every week or some do one week group supervision, one week drop-in. 

@@ -20,10 +20,13 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 ### Structure
 
 -   I mainly cover structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources in the Research Methods 1 book [PEEL (Point, Evidence, Explain, Link)](https://bartlettje.github.io/RM1-resources-v2/) - see Chapter 4.2. Where PEEL checks whether a single paragraph is doing its job internally, reverse outlining (below) checks whether the paragraphs collectively build the right argument once you strip away the detail, so the two operate at different levels of the same structural problem.
+
 -   I use the [Reverse Outlines resource](https://explorationsofstyle.com/2011/02/09/reverse-outlines/) to discuss reviewing structure of a particular section (e.g. the Introduction).
+
 -   The method itself: number each paragraph, then write down its topic in just a few words (not the content, just what it's doing). Once they have that stripped-down list, that's what they examine.
 
 -   Some things we discuss:
+
     -   a broad --\> narrow structure can be helpful for the introduction (and the reverse for the discussion)
     -   are they covering one main point per paragraph or trying to squeeze too many in?
     -   I ask students to think about the reader when writing - what do they know at each point? Who are they? In my discipline, we suggest the second marker of the dissertation, or someone familiar with Psychology, but not the topic.
@@ -45,11 +48,10 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 
 ::: callout-tip
 ## Activity: Apply JARS to a real methods section
-
--   Choose a methods section, either from a paper on your reading list or the one used for the reverse outline exercise earlier in this session
--   Open the JARS checklist that matches its design (Quant, Qual, or Mixed)
--   Go through the checklist and note what's reported and what's missing
--   Ask yourself: if you were reviewing this for a journal, would you have enough information to understand exactly what was done, and in principle, replicate it?
+-   Choose a methods section in advance, either from a paper on the group's reading list or the one used for the reverse outline exercise earlier in this session
+-   Ask students to open the JARS checklist that matches its design (Quant, Qual, or Mixed)
+-   Ask students to go through the checklist and note what's reported and what's missing
+-   Ask students: if you were reviewing this for a journal, would you have enough information to understand exactly what was done, and in principle, replicate it?
 :::
 
 ## Internal resources

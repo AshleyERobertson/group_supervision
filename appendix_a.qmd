@@ -5,15 +5,24 @@ editor: visual
 
 I provide some information for students before dissertation supervision starts, so that they know how I work as a supervisor, what they can expect from supervision from me, and also what my expectations are from them as supervisees.
 
+*This is my 2026-27 version; [the Overview](https://ashleyerobertson.github.io/group_supervision/) has older versions (for both undergraduates and Online Distance Learning PGTs)*
+
 ## Overview
 
 Hello, and welcome to your dissertation! As you know, I'm Ashley and I'll be your dissertation supervisor this year.
 
-Every dissertation project is different, and the way I tend to supervise is to focus on us working together (both you and I, and also us as a group with your peers) to support you to develop a range of skills, culminating in your dissertation write up. I tend to be quite structured as a supervisor, and this is one reason I developed this document, as it will outline the process for you in advance, so you know what to expect. If there is something you would like added, let me know and I'll see what I can do.
+Every dissertation project is different, and the way I tend to supervise is to focus on us working together (both you and I, and also us as a group with your peers) to support you to develop a range of skills, culminating in your dissertation write up. I tend to be quite structured as a supervisor, and this is one reason I developed this document, as it will outline the process for you in advance, so you know what to expect. If there is something you would like added to this sway, let me know and I'll see what I can do.
+
+::: callout-important
+## Key dates for 26/27
+
+-   Dissertation deadline: Friday 5th March (week 8)
+-   UG conference: Friday 19th March (week 10)
+:::
 
 ## Expectations
 
-I have certain expectations in terms of how we will work together over the academic year. I have some below, but in our first group meeting, I will ask you to think about whether there are any you would like to add, or if there is anything you want to amend related to the points below.
+I have certain expectations in terms of how we will work together over the academic year. I have some below, but I would like you to think about whether there are any you would like to add, or if there is anything you want to amend related to the points below.
 
 ### Communication
 
@@ -21,11 +30,11 @@ I ask that all students working with me communicate with me, letting me know if 
 
 ### Attendance
 
-I ask that all students attend group sessions unless there is something urgent that has come up. Individual sessions are more flexible and can be cancelled if you feel that you don't need to meet in a particular week (although please let me know in advance if this is the case). Group sessions are held for 1h every fortnight, with individual sessions being 30 mins, held in the weeks that we are not meeting as a group.
+I ask that all students attend group sessions unless there is something urgent that has come up. Individual sessions are more flexible and can be cancelled if you feel that you don't need to meet in a particular week (although please let me know in advance if this is the case). We can also change the time of an individual session if there is a clash with something, just let me know if so. Group sessions are held for 1h every fortnight, with individual sessions being 30 mins, held in the weeks that we are not meeting as a group.
 
 ### Supportive space
 
-I want the dissertation group to be an encouraging, safe, space and the dissertation process to be an enjoyable (albeit challenging at points!) experience for everyone. This means that you should never hesitate to ask any questions (all questions are valid) and I'd like us all to work together to support each other. No one is perfect and we will all make mistakes during the process (including me). I've been supervising for quite a few years now and I haven't yet managed to come across anything that we have been unable to sort after some discussion, so don't worry about talking to me if something has gone wrong :).
+I want the dissertation group to be an encouraging, safe, space and the dissertation process to be an enjoyable (albeit challenging at points!) experience for everyone. This means that you should never hesitate to ask any questions (all questions are valid) and I'd like us all to work together to support each other. No one is perfect and we will all make mistakes during the process (including me). I've been supervising for a while now and I haven't yet managed to come across anything that we have been unable to sort after some discussion, so don't worry about talking to me if something has gone wrong :).
 
 ## Dissertation meetings
 
@@ -34,22 +43,20 @@ Dissertation meetings will be held every week, with individual meetings and grou
 **Semester 1**
 
 -   Group meetings (1 hour): Weeks 1, 3, 5, 7, 9, 11
-
--   Individual meetings (30 mins): Weeks 2, 4, 6, 8, 10, 12
+-   Individual meetings (30 mins): Weeks 2, 4, 6, 8, 10
 
 **Semester 2**
 
--   Group meetings (1 hour): Weeks 1, 3, 5, 7, 9 (plus a 1.5h session in week 11)
+-   Group meetings (1 hour): Weeks 1, 3, 5, 7, (plus a 1.5h session for the conference in week 9)
+-   Individual meetings (30 mins): Weeks 2, 4, 6, 8
 
--   Individual meetings (30 mins): Weeks 2, 4, 6, 8, 10
+Meetings will be held in my office (Room 439, 62 Hillhead Street). I will send outlook invitations for all supervisions, so that they are all in Outlook calendars.
 
-All meetings will be held in my office. I will send outlook invitations for all supervisions, so that they are in Outlook calendars.
+We may have to select a different time for Semesters 1 and 2, due to changes in timetables/teaching, but can revisit this nearer to the end of Semester 1.
 
-We will most likely have to select a different time for Semesters 1 and 2, due to changes in timetables/teaching, but can revisit this nearer to the end of Semester 1.
+**Semester 1 group meeting time**: TBC
 
-**Semester 1 group meeting time**: Wednesdays 12-1pm
-
-**Semester 2 group meeting time**: Wednesdays 11am-12pm
+**Semester 2 group meeting time**: TBC
 
 ## Deadlines
 
@@ -57,21 +64,33 @@ We will set deadlines for you to submit the following: proposal, ethics, introdu
 
 ### Ethics
 
-We will prioritise the ethics application from the very start - the reason for this is that you cannot recruit data unless you have your ethics approved, meaning that delayed applications can bring a project to a halt.
+We will prioritise the ethics application from the very start, the reason for this is that you cannot collect data unless you have your ethics approved, meaning that delayed applications can bring a project to a halt.
 
 ### Dissertation
 
-Dissertation section deadlines are not set in stone - I would much rather that you take an extra day or two if you need it rather than sending an unfinished draft (with the caveat that it will never be perfect). If this is the case, let me know and we can discuss options.
+Dissertation section deadlines are not set in stone, I would much rather that you take an extra day or two if you need it rather than sending an unfinished draft (with the caveat that it will never be perfect). If this is the case, let me know and we can discuss options.
 
-Although it is unusual for this to be an issue, there will be a point where I am no longer able to look over drafts before the deadline. We will aim for dates before this, but my cut-off is that **I don't accept drafts once we reach 1st March**. This is because it becomes very unlikely that I will be able to turn around feedback in time for you to be able to make meaningful changes by the submission .deadline in mid-March.
+Although it is unusual for this to be an issue, there will be a point where I am no longer able to look over drafts before the deadline. We will aim for dates before this, but the absolute last date I can accept anything is **Monday 22nd February**. This is because it becomes very unlikely that I will be able to turn around feedback in time for you to be able to make meaningful changes by the submission deadline on Friday 5th March. The exception to this is if there are extenuating circumstances that have affected progress of the dissertation, and we would then discuss a suitable alternative.
+
+## Shared folders
+
+I have set up a shared folder for each of you. Please save this and use this folder to store your work. You are welcome to add in additional folders etc. as you need to.
+
+You can work on ethics/dissertation drafts elsewhere and then add in the versions that you want me to provide feedback on if you prefer. However, I ask that files for all data and analysis are kept in this folder throughout.
+
+Each folder will have five main sub-folders: Proposal (where we will have a copy of the draft proposal), Ethics (where we will keep the Ethics drafts), Data (where the data you are working on will be), Analysis (where any files relating to your analysis will be) and Dissertation Drafts (where you will keep your drafts, or where you put your drafts for me to review).
+
+Only you should be able to access your folder (feel free to try another person's link to test this, and let me know if you can access it!)
+
+*(Add each student's individual folder link here when sharing with your own cohort.)*
 
 ## Communication
 
-I have set up a Teams with a couple of channels that you can access - I have a General one for all of my dissertation students and your Level 4 (24-25) one (which we will use most of the time).
+I have set up a Teams with a couple of channels that you can access, I have a General one for all of my dissertation students and your Level 4 (26-27) one (which we will use most of the time).
 
-Please direct message me (rather than email) with your ethics documents, proposal, and any draft dissertation sections.
+All drafts to receive feedback, ethics documents and proposals should be added to the shared folder I have with you. Please message me to let me know when you've added something (I won't get alerted to it being added).
 
-Most questions should be posted in the teams channel - if you have something that is personal and therefore not appropriate to be shared with the whole team, then it is okay to DM. I prefer DM on teams over email, as my email inbox is harder to keep on top of.
+Most questions should be posted in the teams channel, if you have something that is personal and therefore not appropriate to be shared with the whole team, then it is okay to DM. I prefer DM on teams over email, as my email inbox is very difficult for me to keep on top of.
 
 ## Feedback
 
@@ -85,15 +104,13 @@ I generally provide in-text comments, so that I can show you which part am I ref
 
 ### How you can ask for specific feedback
 
-If you have specific parts you would like feedback on (e.g. if you are unsure about something), you can leave comments in your document (either at specific points or at the start) and I will respond to them when I am reading through. Try not to put the points you'd like feedback on in the message when you send the file to me, as I put the files elsewhere and don't tend to refer back to messages. This makes it more likely that I'll miss them if they aren't contained in the document when I come to read it.
+If you have specific parts you would like feedback on (e.g. if you are unsure about something), feel free to leave any questions by commenting. I will then respond to these specifically when giving feedback.
 
 ### What format should be sent for the drafts?
 
-All documents (proposal, ethics, Intro, Methods, Results/Analysis) should be in Word. An exception to this is copies of standardised measures (this might be in pdf, which is fine).
+All documents (proposal, ethics, Intro, Methods, Results/Analysis) should be in Word. An exception to this is copies of standardised measures from someone else (this is fine in pdf).
 
-## Supervision sessions
-
-### Group Sessions
+## Group sessions
 
 In each session, there will be time for questions and we will also go round the group and see how everyone's project is going. We will also spend time discussing certain aspects of the dissertation, and I will provide resources as appropriate.
 
@@ -101,46 +118,29 @@ I have planned out the group sessions as follows (although these are subject to 
 
 **Semester 1**
 
--   Week 1: Getting to know each other, topics, proposals
-
--   Week 3: Ethics, research questions
-
--   Week 5: Summarising papers, bullet point introductions
-
--   Week 7: Discussing the bullet point intros, participant recruitment, reducing perfectionism
-
--   Week 9: Collecting data, developing evaluation (intro)
-
--   Week 11: Structure (i.e. reverse outlines), JARS guidelines
+-   Week 1 - Getting to know each other, topics, proposals
+-   Week 3 - Ethics, research questions
+-   Week 5 - Summarising papers, writing, bullet point introductions
+-   Week 7 - Discussing the bullet point intros, participant recruitment, reducing perfectionism
+-   Week 9 - Collecting data, developing evaluation (intro)
+-   Week 11 - Structure (i.e. reverse outlines), JARS guidelines
 
 **Semester 2**
 
--   Week 1: Receiving and applying feedback, presenting work
-
--   Week 3: Analysis (quant and qual)
-
--   Week 5: Developing evaluation (discussion), linking in theory
-
--   Week 7: No-stakes presentations - everyone will present a 5 min summary of study findings so far (these can be very roughand initial if you haven't completed analysis)
-
--   Week 9: Final group session - bring your questions
-
--   Week 11: Longer session: Celebration combined with practice talks for the UG conference/BPS conference
+-   Week 1 - Receiving and applying feedback, presenting work
+-   Week 3 - Analysis (quant and qual) & developing evaluation (discussion), peer review
+-   Week 5 - No-stakes presentations - everyone will present a 5 min summary of study findings so far (these can be very rough and initial if you haven't completed analysis)
+-   Week 7 - Final group session - bring your questions
+-   Week 9 - Longer session: Celebration combined with practice talks for the UG conference/BPS conference
 
 ### Individual sessions
 
-Individual sessions are dedicated slots each fortnight for you. Here, we will tend to catch up on how your project is going, and you will have the opportunity to ask questions. These may be used more often at certain points in the year (e.g. getting ethics together) than others (e.g. once your data collection is all set up).
+Individual sessions are dedicated slots each fortnight for you. Here, we will tend to catch up on how your project is going, and you will have the opportunity to ask questions. These may be used more often at certain points in the year (e.g. getting ethics together) than others (e.g. once your data collection is all set up). Most people come along every week, but if you find one week that you don't need to meet, it's not an issue, just let me know and we can cancel it.
 
-Most people come along every week, but if you find one week that you don't need to meet, it's not an issue - just let me know and we can cancel it.
+## Peer review
 
-## Peer Review
-
-I am not allowed to look at a draft of the Discussion section, so there will be the opportunity to peer review each others' discussion sections. We will discuss this in Semester 2, in the group sessions.
-
-I will provide some guidelines around peer review, and you can choose whether to take part or not. I am happy to set things up for you if you want, or can take a step back and you can organise within yourselves. Everyone who wants to take part must be included.
+I am not allowed to look at a draft of the Discussion section, so there will be the opportunity to peer review each others' discussion sections. We will discuss this in Semester 2, in the group sessions. I will provide some guidelines around peer review, and you can choose whether to take part or not. I am happy to set things up for you if you want, or can take a step back and you can organise within yourselves. Everyone who wants to take part must be included.
 
 ## Future aspirations
 
-I realise that some people get a bit nervous when asked the 'what are your plans after graduation?' question, but I will ask you about this at some point during semester 1. I will most likely do this in individual supervision. The reason that I do it is so that I can see if there is anything I/your peers can do throughout the dissertation process to support your future plans.
-
-If you don't know what you want to do, this is also fine, but it is then about seeing if we can maximise development of your employability skills, which will then be helpful in whichever direction you decide to go in :).
+I realise that some people dislike the 'what are your plans after graduation?' question, but I will ask you about this at some point during semester 1. I will most likely do this in individual supervision. The reason that I do it is so that I can see if there is anything I/your peers can do throughout the dissertation process to support your future plans. If you don't know what you want to do, this is also fine, but it is then about seeing if we can maximise development of your employability skills, which will then be helpful in whichever direction you decide to go in :).

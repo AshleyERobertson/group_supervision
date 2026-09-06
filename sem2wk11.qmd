@@ -2,15 +2,19 @@
 title: "Semester 2 Week 11"
 editor: visual
 ---
+*Note: In 26-27, this session will be in Semester 2 Week 9 because the dissertation deadline is earlier than normal, due to the early Easter Bank Holiday in 2027*
 
 ## Celebration and practice for the Undergraduate conference
 
 **This session is longer than usual - I usually book a room for two hours and schedule it for an hour and a half**
 
+This is the practice run with slides I mention to students back in [Semester 2 Week 1](https://ashleyerobertson.github.io/group_supervision/sem2wk1.html), alongside the informal practice in Semester 2 Week 7.
+
 -   Mid-way through Semester 2, I will arrange a time that works for everyone and then book a room (Seminar room, Boyd Orr) to do live run-throughs of the talks for the L4 conference.
 -   We usually practice whichever format they will do at the conference
-    -   Some will do 5 min lightning talks, others 10 min scientific talks.
+    -   Some will do 10 min scientific talks, others 10 min informal talks (e.g. Pint of Science/Bright Club style).
     -   If someone has a panel, I will run through some practice questions with them.
-    -   If someone has opted for the written submission, I ask them to take us through what they've chosen to do
+-   Before each run-through, I remind students of the tip from Semester 2 Week 1 about preparing backup slides for questions they anticipate (not relevant for panel discussions). This is the last rehearsal before the real thing, so it's the point to check they've actually done this rather than just having heard the advice once, months earlier.
 -   I then give feedback on slides/pace/delivery etc. so that the students get some additional practice before the L4 conference itself.
--   There is also a chance for the students to reflect on how far they've come over the year (I try to bring cakes in so they have a chance to celebrate)
+-   I also ask the rest of the group to give feedback on each other's run-throughs, using the same approach from the Semester 1 Week 7 bullet-point intro presentations: giving each listener something specific to focus on, and asking them to jot down a line or two even if they don't say something aloud. This keeps everyone engaged across the full session, rather than only half-watching until it's their turn.
+-   There is also a chance for the students to reflect on how far they've come over the year (I try to bring snacks in so they have a chance to celebrate). I try to name some of what they've actually built across the year as part of this, evaluating literature critically, structuring an argument, handling feedback, presenting under pressure, so it's a concrete reflection rather than just a general "well done."

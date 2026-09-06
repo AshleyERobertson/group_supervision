@@ -7,7 +7,7 @@ editor: visual
 
 In this session, we cover summarising papers as well as general writing advice before specifically covering bullet point introductions. I then ask students to bring a bullet point introduction with them into the Semester 1 Week 7 session.
 
-I've made some [notes for this session](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk5_Resources1_2_3_Writing_and_Editing.docx). Feel free to use/adapt etc. as you wish.
+I've made some [notes for this session](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk5_Resources1_2_3_Writing_and_Editing.docx). Feel free to use/adapt etc. as you wish. These notes are also included in each collapsible section below.
 
 ### Expected progress
 
@@ -59,7 +59,7 @@ I've made some [notes for this session](https://github.com/AshleyERobertson/grou
 
 ### General writing advice
 
--   Writing advice will likely differ from supervisor to supervisor. Here are some of my suggestions (rest are in the document linked previously):
+-   Writing advice will likely differ from supervisor to supervisor. Here are some of my suggestions:
     -   It's better to write something than nothing
     -   Know what works for you (e.g. timing, accountability, blocking time out)
     -   Small goals can be helpful

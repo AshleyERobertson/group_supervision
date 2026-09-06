@@ -3,6 +3,8 @@ title: "Semester 2 Week 5"
 editor: visual
 ---
 
+*Note: In 26-27, I will combine Semester 2 Week 3 and 5, pushing things forward. This is because the dissertation deadline is earlier than normal, due to the early Easter Bank Holiday in 2027*
+
 ## Developing evaluation in the discussion, peer review of discussion
 
 In this session, we concentrate mainly on Discussion sections. I cover evaluation using the resources from the RM2 lab (Introductions were covered in [Semester 1 Week 9](https://ashleyerobertson.github.io/group_supervision/sem1wk9.html)). We then use this as jumping off point to talk about their Discussions. We then discuss peer review of Discussing sections.
@@ -11,35 +13,39 @@ At the end of the session, I remind students that the next group session will be
 
 ### Expected progress
 
--   By week 5, projects should be finished in terms of data collection and analysis ongoing
+-   Projects should be finished in terms of data collection and analysis ongoing
 -   I would be expecting Methods sections to be submitted by now (unless the student is submitting it alongside results/analysis)
 
 ### Evaluation in discussions
 
--   Here, I show the students the poor and stronger versions of [excerpts within Discussions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERJe-GFNvg9GlKjPGDFmjL0BftYJBXBcvzw8U9ofZ1XH-Q?e=hQsmVG) and we then have a chat about what they think. The three things we look at are:
+-   Here, I show the students the poor and stronger versions of [excerpts within Discussions](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk5_Resource1_DiscussionEvaluation.docx) and we then have a chat about what they think. This is the same critical-reading skill we've been building all year, spotting what's strong and weak in someone else's work, applied now to Discussions rather than papers (Week 5), intros (Week 9), JARS (Week 11), or Results/Analysis (Week 3). The three things we look at are:
     -   Linking findings to the evidence base
         -   i.e. where students link to the evidence base but only say if it agrees/disagrees, rather than going further
+        -   going further means explaining what the agreement or disagreement actually means: does it strengthen confidence in a theory, point to a boundary condition, or suggest a methodological difference, rather than just noting that the relationship exists
     -   Limitations
-        -   including quantitative limitations,
+        -   including limitations that are irrelevant to the design (e.g. quant limitations for a qual project)
         -   covering lots of different limitations but not going into depth
     -   Implications
         -   not linking to the evidence base in support
         -   over-inflating the importance of the study
+        -   the Discussion is exactly the right place for future-facing claims about implications (unlike the Introduction, where we ask students to hold off on this). The caution here is about doing it in a supported way, not about avoiding it altogether
 -   I also (briefly) discuss with students the importance of situating their findings within the wider context (i.e. why is it important/does it link to theory etc.?).
 
 ### Peer review of the Discussion section
 
 -   As students don't get feedback from supervisors on their Discussion sections, I discuss doing peer review with them.
 -   Either I can organise it or they can organise it within themselves (they usually self-organise along methods in some way (qual reading qual etc.))
--   I provide them with a [some guidance for completing feedback](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
+-   I provide them with a [some guidance for completing feedback](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk5_Resource2_DiscussionPeerReview.docx)
+-   I suggest students use the same three lenses from the evaluation exercise above (linking to the evidence base, limitations, implications) as a concrete framework when reviewing each other's Discussions, rather than giving feedback with no particular structure to it
+-   Since students often self-organise with people they already know, it's worth reminding them that constructive criticism is more useful to a peer than reassurance, friends reviewing each other's work can be reluctant to say anything properly critical
 
 ## Internal resources
 
-Staff notes, tips and excerpts on [Developing Evaluation in Discussions](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4/11_Academic_writing.html#eval_discussion)
+Staff notes, tips and excerpts on [Developing Evaluation in Discussions](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk5_Resource1_DiscussionEvaluation.docx)
 
-[Guidance on completing peer feedback for the Discussion](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
+[Guidance on completing peer feedback for the Discussion](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk5_Resource2_DiscussionPeerReview.docx)
 
-[Resources on evaluation in Discussion sections (from RM2 ODL book)](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-discussions)
+[Resources on evaluation in Discussion sections (from RM2 ODL book)](https://ashleyerobertson.github.io/RM2_ODL_quali_book_v4/) - see Chapter 7 on Academic Writing
 
 ## External resources
 

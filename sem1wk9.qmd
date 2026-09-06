@@ -2,7 +2,6 @@
 title: "Semester 1 Week 9"
 editor: visual
 ---
-
 ## Collecting data, developing evaluation for the introduction
 
 In this session, I tend to cover data collection (i.e. trying to pre-empt any issues before they happen) and also developing evaluation of the Introduction section. I usually have both quant and qual projects so cover both types of data collection - I would only cover one though, if students were only doing one type. We then cover evaluation in Intros using some resources that Wil and I developed for our Research Methods 2 course. (Discussions are covered in [Semester 2 Week 5](https://ashleyerobertson.github.io/group_supervision/sem2wk5.html))
@@ -24,11 +23,17 @@ Although I cover data collection in Week 7 (if I have time), that was an initial
     -   Even if ethics isn't through yet, can still familiarise themselves with it.
 -   Are students clear on how to present their study on whichever system they are using?
 -   Test, test and test again
-    -   It's important to make sure that scales are presented correctly. I've had one student have to start from scratch before because they put Strongly Agree - Disagree - Neither agree nor disagree - Agree - Strongly Disagree and only noticed mid-way through data collection
-    -   We also had one project where the participants saw a picture and it wasn't clear from the data which picture was presented (and it was the between subjects condition) and she had to start data collection again.
     -   Check the platform's default settings for things like IP address or location tracking -- some of these are switched on by default and can undermine anonymity even when ethical approval assumes an anonymous survey
     -   Where possible, pilot with a few real people (e.g. friends, coursemates) before sending it to me to test, not just testing it themselves. Some problems (confusing wording, unexpected timing, issues on a different device or browser) only show up once someone unfamiliar with the study tries it.
-    -   I emphasise to students that they should not start data collection without extensive testing and I reiterate to let me know when it is ready for me to look over. Other supervisors may differ on this, but it's caused issues in the past (see examples above).
+
+::: {.callout-warning}
+## Mistakes I've seen before
+
+-   One student had to start data collection from scratch after not noticing, until midway through, that their scale order was inconsistent: Strongly Agree - Disagree - Neither agree nor disagree - Agree - Strongly Disagree
+-   On another project, participants saw one of two pictures (the between-subjects condition), but it wasn't clear from the data which picture had been shown, so data collection had to start again
+:::
+
+-   I emphasise to students that they should not start data collection without extensive testing and I reiterate to let me know when it is ready for me to look over. Other supervisors may differ on this, but it's caused issues in the past (see examples above).
 -   Students need Emily's [extended debrief](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk9_Resource1_EmilyNordmann_ExtendedDebrief.docx) if going to recruit Level 1 students (within our School, anyway)
 
 ### Data Collection (Qual projects)
