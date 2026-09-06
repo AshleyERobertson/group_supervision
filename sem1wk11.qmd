@@ -31,7 +31,7 @@ I tend to reiterate to the students how important it is to get some rest over Ch
     -   are they covering one main point per paragraph or trying to squeeze too many in?
     -   I ask students to think about the reader when writing - what do they know at each point? Who are they? In my discipline, we suggest the second marker of the dissertation, or someone familiar with Psychology, but not the topic.
     -   Looking at the order: does their reverse outline make sense? For example, does it jump around between topics or does the structure flow clearly?
-    -   Looking at proportion, separately from order: is space being given according to importance, or is a minor point getting a long paragraph while something more central is squeezed into a couple of lines? This is the same point made in Sem1 Wk 7, but instead thinking about the full section.
+    -   Looking at proportion, separately from order: is space being given according to importance, or is a minor point getting a long paragraph while something more central is squeezed into a couple of lines? This is the same point made in Sem1 Wk 5, but instead thinking about the full section.
     -   if covering quite disjointed topics in the intro, it might be worth considering using sub-headings
 
 ### Journal Article Reporting Standards (JARS) and other resources
@@ -48,6 +48,7 @@ I tend to reiterate to the students how important it is to get some rest over Ch
 
 ::: callout-tip
 ## Activity: Apply JARS to a real methods section
+
 -   Choose a methods section in advance, either from a paper on the group's reading list or the one used for the reverse outline exercise earlier in this session
 -   Ask students to open the JARS checklist that matches its design (Quant, Qual, or Mixed)
 -   Ask students to go through the checklist and note what's reported and what's missing
