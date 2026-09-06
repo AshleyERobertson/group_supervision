@@ -14,6 +14,8 @@ book:
       family: Robertson
       given: Ashley
     roles: ~
+  date: today
+  date-format: "D MMMM YYYY"
   doi: ''
   license: CC-BY
   description: This book contains resources for group supervision of dissertation projects
@@ -26,7 +28,6 @@ book:
   search: true
   downloads:
   - pdf
-  - epub
   sharing:
   - twitter
   - facebook
