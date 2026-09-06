@@ -5,7 +5,7 @@ editor: visual
 
 ## Receiving and applying feedback, presenting work
 
-In this session, we see where everyone is now that we are back for Semester 2 (and the deadline will suddenly be just over two months away!). I cover receiving and applying feedback in this session, as well as presentation research.
+In this session, we see where everyone is now that we are back for Semester 2 (and the deadline will suddenly be around two months away!). I cover receiving and applying feedback in this session, as well as presentation research.
 
 At the end of the session, I tell students that the next group session is on analysis and ask them to bring any questions they have in for the session so we can cover them together.
 
@@ -16,9 +16,10 @@ At the end of the session, I tell students that the next group session is on ana
 
 ### Receiving and applying feedback
 
-- As part of the group session, I talk about the type of feedback I give (i.e. what students can expect when they receive feedback from me).
-- I also tell them how they can get the most out of the feedback that I give (e.g. asking questions after receiving it, leaving comments in their work for me to respond to)
-- This will be individual to each supervisor, but I've provided a summary of what I discuss with the students below. I don't give them this, but it has the main things I talk about in the discussion.
+-   As part of the group session, I talk about the type of feedback I give (i.e. what students can expect when they receive feedback from me).
+-   I also tell them how they can get the most out of the feedback that I give (e.g. asking questions after receiving it, leaving comments in their work for me to respond to)
+-   This will be individual to each supervisor, but I've provided a summary of what I discuss with the students below. I don't give them this, but it has the main things I talk about in the discussion.
+-   I also cover a few, select, parts of the external resources linked below and we discuss how they might be able to apply these to their work in semester 2.
 
 ::: {.callout-note collapse="true"}
 ## What I discuss with students: Feedback
@@ -27,22 +28,19 @@ This is also available [as a Word doc](https://github.com/AshleyERobertson/group
 
 **The main type of feedback that you will receive from me for any drafts will be:**
 
--   In-text, and will either say what you did well, will say what could be improved or will ask a question 
--   I may point out one or two examples of things that could be improved throughout the draft – this does not mean that the ones I chose are the only examples. Try to look at the things I am saying and see if you can spot other examples. Often, this is to do with succinctness of writing, or overly using long/short paragraphs. I might give you an example of how you could cut out information you don't need, but it would be very repetitive to go through your whole draft with this level of detail. If I've raised both structural comments (e.g. in the overall summary) and smaller wording-level ones, tackle the structural changes first – there's no point polishing a sentence in a paragraph that might end up moving or being cut 
--   If you are confused by one of my comments, think about why I might have made it, e.g. is it that you made a particular point, but it could be clearer? Did you cover it but somewhere else? 
--   I will also give an overall summary comment I'll provide the main things you do well and the main things I think it would be good to focus on. It's likely that I'll have covered these in more detail in the in-text comments 
--   You might disagree with some of my feedback and that's okay! However, I encourage you to discuss it with me and I'll try to explain why I read it a particular way. You might then either decide to keep it as is or make some sort of change to make your intentions clearer. 
--   Try not to read the number of comments as a verdict on how good or bad the draft is. A heavily annotated draft usually just reflects how closely I've engaged with it at that stage, not how badly you've done, in the same way a published paper you read has been through far more rounds of revision than you ever see 
- 
+-   In-text, and will either say what you did well, will say what could be improved or will ask a question
+-   I may point out one or two examples of things that could be improved throughout the draft -- this does not mean that the ones I chose are the only examples. Try to look at the things I am saying and see if you can spot other examples. Often, this is to do with succinctness of writing, or overly using long/short paragraphs. I might give you an example of how you could cut out information you don't need, but it would be very repetitive to go through your whole draft with this level of detail. If I've raised both structural comments (e.g. in the overall summary) and smaller wording-level ones, tackle the structural changes first -- there's no point polishing a sentence in a paragraph that might end up moving or being cut
+-   If you are confused by one of my comments, think about why I might have made it, e.g. is it that you made a particular point, but it could be clearer? Did you cover it but somewhere else?
+-   I will also give an overall summary comment I'll provide the main things you do well and the main things I think it would be good to focus on. It's likely that I'll have covered these in more detail in the in-text comments
+-   You might disagree with some of my feedback and that's okay! However, I encourage you to discuss it with me and I'll try to explain why I read it a particular way. You might then either decide to keep it as is or make some sort of change to make your intentions clearer.
+-   Try not to read the number of comments as a verdict on how good or bad the draft is. A heavily annotated draft usually just reflects how closely I've engaged with it at that stage, not how badly you've done, in the same way a published paper you read has been through far more rounds of revision than you ever see
+
 **To help you get the most out of my feedback:**
 
--   Read through all the comments once, in-text and the summary, before you start making any changes. That way you've got the full picture before you act on anything, rather than responding to an early comment in a way that gets contradicted or made unnecessary by something raised later in the same draft 
--   If you have a question for me when drafting (before I read your draft), leave a comment in word at that particular point in the draft, so I can see it and respond to it when I read it. Try to avoid putting it in your teams message/email as I don’t always remember to go back to these when reviewing. 
--   Ask me any questions you have once you've received it. I'm very happy to explain any feedback in individual supervision or my office hours – it's hard to get everything across clearly in writing and it sometimes will need a brief clarification/discussion in person.
-
+-   Read through all the comments once, in-text and the summary, before you start making any changes. That way you've got the full picture before you act on anything, rather than responding to an early comment in a way that gets contradicted or made unnecessary by something raised later in the same draft
+-   If you have a question for me when drafting (before I read your draft), leave a comment in word at that particular point in the draft, so I can see it and respond to it when I read it. Try to avoid putting it in your teams message/email as I don't always remember to go back to these when reviewing.
+-   Ask me any questions you have once you've received it. I'm very happy to explain any feedback in individual supervision or my office hours -- it's hard to get everything across clearly in writing and it sometimes will need a brief clarification/discussion in person.
 :::
-
-- I cover a few, select, parts of the external resources linked below and we discuss how they might be able to apply these to their work in semester 2.
 
 ### Presentations
 
@@ -56,23 +54,22 @@ This is also available [as a Word doc](https://github.com/AshleyERobertson/group
 
 This is also available [as a Word doc](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk1_Resource2_Presentations.docx)
 
-**Suggestions for students:** 
+**Suggestions for students:**
 
--   Keep to time (don't go over your allocated time). It's better to be slightly too short than slightly too long. 
--   If you know people in the audience, it can help to make eye contact with a friendly face if you're feeling nervous during the talk or the questions afterward. 
--   You don't need to include everything – what does the reader need to know to give them background/a context? What do they need to know about what you did and how? What do they need to know about what you found? What do they need to know about how your findings relate to the literature and why they are important? 
--   Don't include lots of text on slides – it's better to have clear slides that aren't cramped and cluttered. 
--   Signpost as you go (e.g. "so far I've covered X, now I'll move on to Y") – unlike a reader, your audience can't scroll back if they lose the thread, so a quick verbal marker at each transition helps them follow along. 
--   Don't use lots of different animations/super bold colour combos – stick to one type of animation only and aim for readability. 
--   Try to use quotes/plots/tables to help you get key info across. 
--   Know what you do when you get anxious and try to manage it (e.g. I speak really quickly so I have to consciously slow down). 
--   Practice your talk! It's less about memorising it and more about practicing the structure etc./what you want to discuss at each point. 
--   Ask for feedback from other people – it's helpful to see what people found helpful/less helpful. 
--   Have some bullet point notes but try not to read out a script on stage from a piece of paper. 
--   It can help to think through your study's weak points in advance and have a rough sense of how you'd respond if asked about them – you've already practised spotting this in other people's papers, so turn that same eye on your own study before the talk. 
--   If you think you might be asked questions on a particular area, you can prepare slides that respond to this (e.g. figures) that you didn't have space for and keep them after the 'final slide'. If you then get a question on this, it can allow you to expand on areas you might not have had time for in the talk and also can set you at ease for the next few questions. 
+-   Keep to time (don't go over your allocated time). It's better to be slightly too short than slightly too long.
+-   If you know people in the audience, it can help to make eye contact with a friendly face if you're feeling nervous during the talk or the questions afterward.
+-   You don't need to include everything -- what does the reader need to know to give them background/a context? What do they need to know about what you did and how? What do they need to know about what you found? What do they need to know about how your findings relate to the literature and why they are important?
+-   Don't include lots of text on slides -- it's better to have clear slides that aren't cramped and cluttered.
+-   Signpost as you go (e.g. "so far I've covered X, now I'll move on to Y") -- unlike a reader, your audience can't scroll back if they lose the thread, so a quick verbal marker at each transition helps them follow along.
+-   Don't use lots of different animations/super bold colour combos -- stick to one type of animation only and aim for readability.
+-   Try to use quotes/plots/tables to help you get key info across.
+-   Know what you do when you get anxious and try to manage it (e.g. I speak really quickly so I have to consciously slow down).
+-   Practice your talk! It's less about memorising it and more about practicing the structure etc./what you want to discuss at each point.
+-   Ask for feedback from other people -- it's helpful to see what people found helpful/less helpful.
+-   Have some bullet point notes but try not to read out a script on stage from a piece of paper.
+-   It can help to think through your study's weak points in advance and have a rough sense of how you'd respond if asked about them -- you've already practised spotting this in other people's papers, so turn that same eye on your own study before the talk.
+-   If you think you might be asked questions on a particular area, you can prepare slides that respond to this (e.g. figures) that you didn't have space for and keep them after the 'final slide'. If you then get a question on this, it can allow you to expand on areas you might not have had time for in the talk and also can set you at ease for the next few questions.
 -   It's also completely fine to say you don't know, or that it's something you didn't look at, if you're asked a question you can't answer. Don't feel like you have to guess or bluff your way through it
-
 :::
 
 ## Internal resources
@@ -80,7 +77,6 @@ This is also available [as a Word doc](https://github.com/AshleyERobertson/group
 [Guidance on the type of feedback I tend to give for dissertations](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk1_Resource1_Feedback.docx)
 
 [Guidance on presentations](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem2Wk1_Resource2_Presentations.docx)
-
 
 ## External resources
 

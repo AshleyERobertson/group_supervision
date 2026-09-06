@@ -19,7 +19,38 @@ I've made some [notes for this session](https://github.com/AshleyERobertson/grou
     -   Summarise with intent (what is the purpose?)
     -   Pull out the key details (remember can go back for further detail)
     -   Take notes for the Discussion, even when reading for the Introduction
-    -   Further details are linked in the document in *Internal Resources*
+    
+::: {.callout-note collapse="true"}
+## What I discuss with students: Summarising Papers
+
+**Reading and note-taking**
+
+-   Identify what the key points/findings/arguments are 
+-   Remember to avoid closely paraphrasing the original – when taking notes, try to think about how you would summarise it for someone who has never read the paper. 
+
+**udgement calls (weight and evaluation)** 
+
+-   Try to avoid summarising every single detail, as then it can become too lengthy. Remember that you can refer back to the paper if you need to. 
+-   Have a focus for the summary – what is your purpose? 
+  -   Help build a rationale?
+  -   As background in the intro?
+  -   Linking to theory?
+  -   To link to findings in the Discussion? 
+
+-   Go beyond description and evaluate. What is great about the study? What is not-so-great? Why? What does this mean for how we interpret the study? How confident can we be with a study’s conclusions? 
+-   Some papers will be more relevant (and therefore will have a longer summary) than others. If a paper seems great in terms of topic, it’s not necessarily important to include in great detail if it’s methodologically weak.  
+
+**Working across papers**
+
+-   Once you’ve summarised a few papers, take a step back and consider how they relate to each other. 
+-   Look at where they agree/disagree/build on each other. When you write your dissertation, then keep this in mind: you want to think of the ‘bigger picture’ and synthesise, rather than producing study 1 -> study 2 -> study 3 -> conclusion. 
+
+**Reading while being aware of later sections** 
+
+-   Even when reading papers in preparation for the introduction, keep an eye out for anything that might be useful for your Discussion. 
+-   I keep a document specifically for the Discussion and take notes from my reading as I go. I don’t use all of these at the end, but it means I have some thoughts written down and don’t have a blank space (which can be a bit overwhelming).  
+
+:::
 
 ### General writing advice
 
@@ -30,12 +61,57 @@ I've made some [notes for this session](https://github.com/AshleyERobertson/grou
     -   Split out **generation** and **editing**
         -   This can help get over the hurdle of the 'perfect' sentence
 
+::: {.callout-note collapse="true"}
+## What I discuss with students: Writing Advice
+
+-   It's better to write something/anything than nothing. 
+  -   Be accountable to others 
+  -   Body doubling can be useful 
+  -   Block out time in your calendar 
+
+-   Give yourself small goals, e.g. ten minutes of writing. 
+  -   It makes it easier to get started. If I was really struggling, I would write down what I was struggling with. Sometimes, just typing something was enough to get me into it, even if I'd spent the first five mins writing 'I don't have a clue what to write about' 
+  -   If writing feels like the wrong tool that day, try talking it through instead – to a supervisor, a friend, or just to yourself. Saying it out loud can help you identify the structure of an argument faster than staring at a blank page 
+
+-   Know yourself (do you write better in the morning or at night?) 
+  -   I am better at creative things in the morning, so during my PhD I used to write every morning from 9-1, then the afternoon was spent doing things that didn't need my brain as much. Within the schedule you have, think about what might work for you 
+  
+-   Writing out of order 
+  -   You don't have to write in the order it'll be read in – if you're stuck on the intro, try starting with a different section (e.g. Methods) that feels more concrete. Getting words down anywhere builds momentum to go back to the harder sections later 
+  
+-   I used to get hung up on every single sentence. What helped me was splitting the process of generation and editing 
+  -   Generation - just focus on getting words on a page. Don't worry about spelling, looking papers up, grammar, punctuation, structure etc. It's about getting the ideas down. 
+  -   Editing - later (give yourself some time between this stage and the generation stage), focus on getting the things you wrote into a coherent draft. 
+
+-   To do this, try to split it into two stages: 
+  -   first, check the structure (does the argument hold together, is anything in the wrong place or missing), 
+  -   then focus on the line-level parts (grammar, word choice, polishing sentences). This then means you only polish those parts that seem likely to ‘stick around’ and make it past the first round of editing. 
+
+:::
+
+
 ### Bullet point introductions
 
 -   I discuss that I would like everyone to write a bullet point introduction for the next session. I tell students that I do not expect this to be perfect, and that it can change down the line
 -   We go through some of the suggestions I have for writing this.
 -   I ask students to post on the Teams channel before the next group meeting (in two weeks time) but others may choose a different process
 -   I signpost them to [Wil Toivo's resource](https://github.com/AshleyERobertson/group_supervision/releases/download/resources-v1/Sem1Wk5_Resource4_WilToivo_DevRationale.docx) on developing a rationale for their introduction.
+
+::: {.callout-note collapse="true"}
+## What I discuss with students: Bullet Point Introductions
+
+-   Set the scene for the reader 
+-   Do the different paragraphs flow well? 
+-   A good structure starts off broad and ends narrow (i.e. closer to your study) 
+-   It can be helpful to use sub-headings, especially if you are covering literature from quite different areas 
+-   Try to synthesise literature (i.e. pull together literature from various sources, rather than concentrate on a study per paragraph) 
+-   Be selective about which literature makes the cut, not just how much detail each gets (i.e. not everything that is interesting needs to be in the intro) 
+-   Is there a theoretical basis for your research? 
+-   Identify the gap – what's missing, unresolved, or contested in the literature – but remember to think about why it matters. "No one's studied this" isn't a justification on its own; ground the "why" in what's already known or unresolved, not in what the findings might lead to (save future implications for the Discussion) 
+-   Try drafting your RQ/hypotheses first, even roughly – then check each bullet point is actually building towards it, rather than just being interesting background 
+-   End your introduction by presenting your RQ (qual) or your hypotheses (quant) 
+
+:::
 
 ## Internal resources
 
